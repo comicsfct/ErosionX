@@ -1,0 +1,968 @@
+gene_name	cell_line	aCount	bCount	totalCount	allelic_exp	minor_exp	label	XCI	cat_final
+ABCD1	F002	0	20	20	monoallelic	0.0	F002_1	inactive	unchanged
+ABCD1	F002	0	18	18	monoallelic	0.0	F002_2	inactive	unchanged
+ABCD1	F002	0	17	17	monoallelic	0.0	F002_3	inactive	unchanged
+ABCD1	F7cl15	0	19	19	monoallelic	0.0	F7cl15_1	inactive	unchanged
+ABCD1	F7cl15	0	12	12	monoallelic	0.0	F7cl15_2	inactive	unchanged
+ABCD1	F7cl15	0	16	16	monoallelic	0.0	F7cl15_3	inactive	unchanged
+ABCD1	F7cl4	0	17	17	monoallelic	0.0	F7cl4_1	inactive	unchanged
+ABCD1	F7cl4	0	10	10	monoallelic	0.0	F7cl4_3	inactive	unchanged
+AC233976.1	F7cl15	102	0	102	monoallelic	0.0	F7cl15_1		unchanged
+AC233976.1	F7cl15	162	0	162	monoallelic	0.0	F7cl15_2		unchanged
+AC233976.1	F7cl15	147	0	147	monoallelic	0.0	F7cl15_3		unchanged
+AC233976.1	F7cl4	169	0	169	monoallelic	0.0	F7cl4_1		unchanged
+AC233976.1	F7cl4	181	0	181	monoallelic	0.0	F7cl4_2		unchanged
+AC233976.1	F7cl4	185	0	185	monoallelic	0.0	F7cl4_3		unchanged
+AC244102.3	F002	19	0	19	monoallelic	0.0	F002_1		
+AC244102.3	F002	15	0	15	monoallelic	0.0	F002_2		
+AC244102.3	F002	12	0	12	monoallelic	0.0	F002_3		
+AC244102.3	F7cl15	0	10	10	monoallelic	0.0	F7cl15_1		
+AC244102.3	F7cl15	0	22	22	monoallelic	0.0	F7cl15_2		
+AC244102.3	F7cl15	0	32	32	monoallelic	0.0	F7cl15_3		
+AC244102.3	F7cl4	0	17	17	monoallelic	0.0	F7cl4_1		
+AC244102.3	F7cl4	0	25	25	monoallelic	0.0	F7cl4_2		
+AC244102.3	F7cl4	0	16	16	monoallelic	0.0	F7cl4_3		
+AC244197.3	CD	90	2	92	monoallelic	0.02173913	CD_1		unchanged
+AC244197.3	CD	74	3	77	monoallelic	0.038961039	CD_2		unchanged
+AC244197.3	CD	93	2	95	monoallelic	0.021052632	CD_3		unchanged
+AC244197.3	CE	0	74	74	monoallelic	0.0	CE_1		unchanged
+AC244197.3	CE	0	75	75	monoallelic	0.0	CE_2		unchanged
+AC244197.3	CE	0	73	73	monoallelic	0.0	CE_3		unchanged
+AC244197.3	F002	0	78	78	monoallelic	0.0	F002_1		unchanged
+AC244197.3	F002	0	113	113	monoallelic	0.0	F002_2		unchanged
+AC244197.3	F002	1	100	101	monoallelic	0.00990099	F002_3		unchanged
+ACOT9	CD	3	11	14	in-between	0.214285714	CD_1	inactive	unchanged
+ACOT9	CD	0	12	12	in-between	0.0	CD_2	inactive	unchanged
+ACOT9	CE	10	0	10	monoallelic	0.0	CE_1	inactive	unchanged
+ACOT9	CE	13	0	13	monoallelic	0.0	CE_2	inactive	unchanged
+ACOT9	CE	20	0	20	monoallelic	0.0	CE_3	inactive	unchanged
+ACSL4	CD	39	45	84	biallelic	0.464285714	CD_1	inactive	unchanged
+ACSL4	CD	22	39	61	biallelic	0.360655738	CD_2	inactive	unchanged
+ACSL4	CD	29	32	61	biallelic	0.475409836	CD_3	inactive	unchanged
+ACSL4	CE	5	30	35	in-between	0.142857143	CE_1	inactive	unchanged
+ACSL4	CE	11	24	35	in-between	0.314285714	CE_2	inactive	unchanged
+ACSL4	CE	10	38	48	in-between	0.208333333	CE_3	inactive	unchanged
+AF241726.1	ASD	39	0	39	monoallelic	0.0	ASD_1		
+AF241726.1	ASD	29	0	29	monoallelic	0.0	ASD_2		
+AF241726.1	ASD	50	0	50	monoallelic	0.0	ASD_3		
+AL035425.1	CD	7	20	27	biallelic	0.259259259	CD_1		sporadic up
+AL035425.1	CD	29	31	60	biallelic	0.483333333	CD_2		sporadic up
+AL035425.1	CD	29	28	57	biallelic	0.49122807	CD_3		sporadic up
+AL035425.1	CE	4	15	19	in-between	0.210526316	CE_1		sporadic up
+AL035425.1	CE	4	26	30	in-between	0.133333333	CE_2		sporadic up
+AL035425.1	CE	12	17	29	in-between	0.413793103	CE_3		sporadic up
+AL035425.1	F002	24	0	24	monoallelic	0.0	F002_1		sporadic up
+AL035425.1	F002	16	0	16	monoallelic	0.0	F002_2		sporadic up
+AL035425.1	F002	13	0	13	monoallelic	0.0	F002_3		sporadic up
+AL133500.1	CD	48	0	48	monoallelic	0.0	CD_1		
+AL133500.1	CD	38	0	38	monoallelic	0.0	CD_2		
+AL133500.1	CD	44	0	44	monoallelic	0.0	CD_3		
+AL133500.1	CE	0	16	16	monoallelic	0.0	CE_1		
+AL133500.1	CE	0	19	19	monoallelic	0.0	CE_2		
+AL133500.1	CE	0	40	40	monoallelic	0.0	CE_3		
+AL133500.1	F002	39	0	39	monoallelic	0.0	F002_1		
+AL133500.1	F002	26	0	26	monoallelic	0.0	F002_2		
+AL133500.1	F002	39	0	39	monoallelic	0.0	F002_3		
+AL139398.1	CD	0	124	124	monoallelic	0.0	CD_1		unchanged
+AL139398.1	CD	0	107	107	monoallelic	0.0	CD_2		unchanged
+AL139398.1	CD	0	74	74	monoallelic	0.0	CD_3		unchanged
+AL139398.1	CE	83	0	83	monoallelic	0.0	CE_1		unchanged
+AL139398.1	CE	99	0	99	monoallelic	0.0	CE_2		unchanged
+AL139398.1	CE	119	0	119	monoallelic	0.0	CE_3		unchanged
+APLN	F7cl4	11	0	11	monoallelic	0.0	F7cl4_2	inactive	sporadic up
+APLN	F7cl4	10	0	10	monoallelic	0.0	F7cl4_3	inactive	sporadic up
+APOO	CD	505	544	1049	biallelic	0.481410867	CD_1	inactive	sporadic up
+APOO	CD	432	490	922	biallelic	0.468546638	CD_2	inactive	sporadic up
+APOO	CD	450	495	945	biallelic	0.476190476	CD_3	inactive	sporadic up
+APOO	CE	614	667	1281	biallelic	0.479313037	CE_1	inactive	sporadic up
+APOO	CE	542	551	1093	biallelic	0.495882891	CE_2	inactive	sporadic up
+APOO	CE	565	505	1070	biallelic	0.471962617	CE_3	inactive	sporadic up
+APOO	F7cl15	0	117	117	monoallelic	0.0	F7cl15_1	inactive	sporadic up
+APOO	F7cl15	0	153	153	monoallelic	0.0	F7cl15_2	inactive	sporadic up
+APOO	F7cl15	0	135	135	monoallelic	0.0	F7cl15_3	inactive	sporadic up
+APOO	F7cl4	0	154	154	monoallelic	0.0	F7cl4_1	inactive	sporadic up
+APOO	F7cl4	0	154	154	monoallelic	0.0	F7cl4_2	inactive	sporadic up
+APOO	F7cl4	1	200	201	monoallelic	0.004975124	F7cl4_3	inactive	sporadic up
+ARHGAP4	ASD	0	79	79	monoallelic	0.0	ASD_1	escape	unchanged
+ARHGAP4	ASD	0	59	59	monoallelic	0.0	ASD_2	escape	unchanged
+ARHGAP4	ASD	0	113	113	monoallelic	0.0	ASD_3	escape	unchanged
+ARHGAP4	F002	23	0	23	monoallelic	0.0	F002_1	escape	unchanged
+ARMCX1	ASD	294	0	294	monoallelic	0.0	ASD_1	inactive	unchanged
+ARMCX1	ASD	255	0	255	monoallelic	0.0	ASD_2	inactive	unchanged
+ARMCX1	ASD	237	0	237	monoallelic	0.0	ASD_3	inactive	unchanged
+ARMCX4	ASD	39	0	39	monoallelic	0.0	ASD_1	inactive	unchanged
+ARMCX4	ASD	51	0	51	monoallelic	0.0	ASD_2	inactive	unchanged
+ARMCX4	ASD	62	0	62	monoallelic	0.0	ASD_3	inactive	unchanged
+ARMCX4	F002	50	0	50	monoallelic	0.0	F002_1	inactive	unchanged
+ARMCX4	F002	43	0	43	monoallelic	0.0	F002_2	inactive	unchanged
+ARMCX4	F002	39	0	39	monoallelic	0.0	F002_3	inactive	unchanged
+ARMCX4	F7cl15	0	32	32	monoallelic	0.0	F7cl15_1	inactive	unchanged
+ARMCX4	F7cl15	0	27	27	monoallelic	0.0	F7cl15_2	inactive	unchanged
+ARMCX4	F7cl15	0	31	31	monoallelic	0.0	F7cl15_3	inactive	unchanged
+ARMCX4	F7cl4	0	38	38	monoallelic	0.0	F7cl4_1	inactive	unchanged
+ARMCX4	F7cl4	0	36	36	monoallelic	0.0	F7cl4_2	inactive	unchanged
+ARMCX4	F7cl4	0	33	33	monoallelic	0.0	F7cl4_3	inactive	unchanged
+ARSD	F7cl4	2	8	10	in-between	0.2	F7cl4_1	escape	sporadic up
+ATP7A	F002	0	11	11	monoallelic	0.0	F002_1	variable	unchanged
+ATRX	F002	33	0	33	monoallelic	0.0	F002_1	inactive	sporadic down
+ATRX	F002	36	0	36	monoallelic	0.0	F002_2	inactive	sporadic down
+ATRX	F002	33	0	33	monoallelic	0.0	F002_3	inactive	sporadic down
+BGN	ASD	0	10	10	monoallelic	0.0	ASD_3	inactive	consistent up
+BGN	CD	30	0	30	monoallelic	0.0	CD_1	inactive	consistent up
+BGN	CD	20	0	20	monoallelic	0.0	CD_2	inactive	consistent up
+BGN	CD	20	0	20	monoallelic	0.0	CD_3	inactive	consistent up
+BGN	CE	0	13	13	monoallelic	0.0	CE_1	inactive	consistent up
+BGN	CE	0	26	26	monoallelic	0.0	CE_3	inactive	consistent up
+BGN	F002	0	30	30	monoallelic	0.0	F002_1	inactive	consistent up
+BGN	F002	0	16	16	monoallelic	0.0	F002_2	inactive	consistent up
+BX890604.1	F002	10	8	18	biallelic	0.444444444	F002_1		sporadic up
+BX890604.1	F002	5	5	10	biallelic	0.5	F002_3		sporadic up
+CA5B	CD	21	13	34	biallelic	0.382352941	CD_1	escape	unchanged
+CA5B	CD	13	9	22	biallelic	0.409090909	CD_2	escape	unchanged
+CA5B	CD	12	10	22	biallelic	0.454545455	CD_3	escape	unchanged
+CA5B	CE	22	20	42	biallelic	0.476190476	CE_1	escape	unchanged
+CA5B	CE	15	10	25	biallelic	0.4	CE_2	escape	unchanged
+CA5B	CE	11	17	28	biallelic	0.392857143	CE_3	escape	unchanged
+CA5B	F002	11	7	18	biallelic	0.388888889	F002_1	escape	unchanged
+CA5B	F002	19	15	34	biallelic	0.441176471	F002_2	escape	unchanged
+CA5B	F002	8	25	33	biallelic	0.242424242	F002_3	escape	unchanged
+CA5B	F7cl15	24	2	26	in-between	0.076923077	F7cl15_2	escape	unchanged
+CA5B	F7cl15	10	3	13	in-between	0.230769231	F7cl15_3	escape	unchanged
+CA5B	F7cl4	13	4	17	biallelic	0.235294118	F7cl4_1	escape	unchanged
+CA5B	F7cl4	10	7	17	biallelic	0.411764706	F7cl4_2	escape	unchanged
+CA5B	F7cl4	6	12	18	biallelic	0.333333333	F7cl4_3	escape	unchanged
+CCDC22	CD	69	0	69	monoallelic	0.0	CD_1	inactive	unchanged
+CCDC22	CD	57	0	57	monoallelic	0.0	CD_2	inactive	unchanged
+CCDC22	CD	52	0	52	monoallelic	0.0	CD_3	inactive	unchanged
+CCDC22	CE	0	36	36	monoallelic	0.0	CE_1	inactive	unchanged
+CCDC22	CE	0	52	52	monoallelic	0.0	CE_2	inactive	unchanged
+CCDC22	CE	0	47	47	monoallelic	0.0	CE_3	inactive	unchanged
+CCDC22	F7cl15	20	0	20	monoallelic	0.0	F7cl15_1	inactive	unchanged
+CCDC22	F7cl15	33	0	33	monoallelic	0.0	F7cl15_2	inactive	unchanged
+CCDC22	F7cl15	43	0	43	monoallelic	0.0	F7cl15_3	inactive	unchanged
+CCDC22	F7cl4	31	0	31	monoallelic	0.0	F7cl4_1	inactive	unchanged
+CCDC22	F7cl4	35	0	35	monoallelic	0.0	F7cl4_2	inactive	unchanged
+CCDC22	F7cl4	25	0	25	monoallelic	0.0	F7cl4_3	inactive	unchanged
+CD99L2	F7cl15	0	34	34	monoallelic	0.0	F7cl15_1	inactive	unchanged
+CD99L2	F7cl15	0	47	47	monoallelic	0.0	F7cl15_2	inactive	unchanged
+CD99L2	F7cl15	0	39	39	monoallelic	0.0	F7cl15_3	inactive	unchanged
+CD99L2	F7cl4	0	35	35	monoallelic	0.0	F7cl4_1	inactive	unchanged
+CD99L2	F7cl4	0	38	38	monoallelic	0.0	F7cl4_2	inactive	unchanged
+CD99L2	F7cl4	0	27	27	monoallelic	0.0	F7cl4_3	inactive	unchanged
+CENPI	ASD	101	0	101	monoallelic	0.0	ASD_1	inactive	unchanged
+CENPI	ASD	63	0	63	monoallelic	0.0	ASD_2	inactive	unchanged
+CENPI	ASD	72	0	72	monoallelic	0.0	ASD_3	inactive	unchanged
+CENPI	CD	43	0	43	monoallelic	0.0	CD_1	inactive	unchanged
+CENPI	CD	26	0	26	monoallelic	0.0	CD_2	inactive	unchanged
+CENPI	CD	50	0	50	monoallelic	0.0	CD_3	inactive	unchanged
+CENPI	CE	0	47	47	monoallelic	0.0	CE_1	inactive	unchanged
+CENPI	CE	0	48	48	monoallelic	0.0	CE_2	inactive	unchanged
+CENPI	CE	0	51	51	monoallelic	0.0	CE_3	inactive	unchanged
+CENPI	F002	55	0	55	monoallelic	0.0	F002_1	inactive	unchanged
+CENPI	F002	62	0	62	monoallelic	0.0	F002_2	inactive	unchanged
+CENPI	F002	82	0	82	monoallelic	0.0	F002_3	inactive	unchanged
+CENPI	F7cl15	34	0	34	monoallelic	0.0	F7cl15_1	inactive	unchanged
+CENPI	F7cl15	53	0	53	monoallelic	0.0	F7cl15_2	inactive	unchanged
+CENPI	F7cl15	52	0	52	monoallelic	0.0	F7cl15_3	inactive	unchanged
+CENPI	F7cl4	45	0	45	monoallelic	0.0	F7cl4_1	inactive	unchanged
+CENPI	F7cl4	30	0	30	monoallelic	0.0	F7cl4_2	inactive	unchanged
+CENPI	F7cl4	47	0	47	monoallelic	0.0	F7cl4_3	inactive	unchanged
+CHRDL1	ASD	55	6	61	monoallelic	0.098360656	ASD_1	escape	consistent up
+CHRDL1	ASD	60	6	66	monoallelic	0.090909091	ASD_2	escape	consistent up
+CHRDL1	ASD	96	5	101	monoallelic	0.04950495	ASD_3	escape	consistent up
+CHRDL1	CD	58	69	127	biallelic	0.456692913	CD_1	escape	consistent up
+CHRDL1	CD	65	39	104	biallelic	0.375	CD_2	escape	consistent up
+CHRDL1	CD	69	46	115	biallelic	0.4	CD_3	escape	consistent up
+CHRDL1	CE	45	52	97	biallelic	0.463917526	CE_1	escape	consistent up
+CHRDL1	CE	46	44	90	biallelic	0.488888889	CE_2	escape	consistent up
+CHRDL1	CE	63	68	131	biallelic	0.480916031	CE_3	escape	consistent up
+CHRDL1	F7cl15	65	2	67	monoallelic	0.029850746	F7cl15_1	escape	consistent up
+CHRDL1	F7cl15	82	2	84	monoallelic	0.023809524	F7cl15_2	escape	consistent up
+CHRDL1	F7cl15	50	1	51	monoallelic	0.019607843	F7cl15_3	escape	consistent up
+CHRDL1	F7cl4	73	42	115	in-between	0.365217391	F7cl4_1	escape	consistent up
+CHRDL1	F7cl4	71	42	113	in-between	0.371681416	F7cl4_2	escape	consistent up
+CHRDL1	F7cl4	56	37	93	in-between	0.397849462	F7cl4_3	escape	consistent up
+CITED1	CD	15	0	15	monoallelic	0.0	CD_1		
+CITED1	CD	12	0	12	monoallelic	0.0	CD_2		
+CITED1	CD	12	0	12	monoallelic	0.0	CD_3		
+CITED1	CE	0	15	15	monoallelic	0.0	CE_1		
+CITED1	CE	0	21	21	monoallelic	0.0	CE_3		
+CITED1	F002	10	0	10	monoallelic	0.0	F002_1		
+CITED1	F002	26	0	26	monoallelic	0.0	F002_2		
+CITED1	F002	12	0	12	monoallelic	0.0	F002_3		
+CXorf56	ASD	137	0	137	monoallelic	0.0	ASD_1	inactive	unchanged
+CXorf56	ASD	131	0	131	monoallelic	0.0	ASD_2	inactive	unchanged
+CXorf56	ASD	144	0	144	monoallelic	0.0	ASD_3	inactive	unchanged
+DCAF12L1	F7cl15	14	0	14	monoallelic	0.0	F7cl15_1		unchanged
+DCAF12L1	F7cl15	21	0	21	monoallelic	0.0	F7cl15_2		unchanged
+DCAF12L1	F7cl15	28	0	28	monoallelic	0.0	F7cl15_3		unchanged
+DCAF12L1	F7cl4	26	0	26	monoallelic	0.0	F7cl4_1		unchanged
+DCAF12L1	F7cl4	22	0	22	monoallelic	0.0	F7cl4_2		unchanged
+DCAF12L1	F7cl4	33	0	33	monoallelic	0.0	F7cl4_3		unchanged
+DCAF12L2	CE	13	0	13	monoallelic	0.0	CE_1		unchanged
+DCAF12L2	CE	15	0	15	monoallelic	0.0	CE_2		unchanged
+DCAF12L2	F7cl4	11	0	11	monoallelic	0.0	F7cl4_2		unchanged
+DDX3X	ASD	0	20	20	monoallelic	0.0	ASD_3	escape	unchanged
+DGKK	ASD	0	23	23	monoallelic	0.0	ASD_1		unchanged
+DGKK	ASD	0	23	23	monoallelic	0.0	ASD_2		unchanged
+DGKK	ASD	0	27	27	monoallelic	0.0	ASD_3		unchanged
+DGKK	F002	70	0	70	monoallelic	0.0	F002_1		unchanged
+DGKK	F002	17	0	17	monoallelic	0.0	F002_2		unchanged
+DGKK	F002	22	1	23	monoallelic	0.043478261	F002_3		unchanged
+EDA2R	F002	0	19	19	monoallelic	0.0	F002_1	inactive	unchanged
+EDA2R	F002	0	20	20	monoallelic	0.0	F002_2	inactive	unchanged
+EDA2R	F002	0	15	15	monoallelic	0.0	F002_3	inactive	unchanged
+EDA2R	F7cl15	18	0	18	monoallelic	0.0	F7cl15_1	inactive	unchanged
+EDA2R	F7cl15	30	0	30	monoallelic	0.0	F7cl15_2	inactive	unchanged
+EDA2R	F7cl15	28	0	28	monoallelic	0.0	F7cl15_3	inactive	unchanged
+EDA2R	F7cl4	15	0	15	monoallelic	0.0	F7cl4_1	inactive	unchanged
+EDA2R	F7cl4	36	0	36	monoallelic	0.0	F7cl4_2	inactive	unchanged
+EDA2R	F7cl4	14	0	14	monoallelic	0.0	F7cl4_3	inactive	unchanged
+EIF2S3	ASD	476	1150	1626	in-between	0.292742927	ASD_1	escape	unchanged
+EIF2S3	ASD	390	1031	1421	in-between	0.274454609	ASD_2	escape	unchanged
+EIF2S3	ASD	405	972	1377	in-between	0.294117647	ASD_3	escape	unchanged
+EIF2S3	CD	1787	2244	4031	biallelic	0.443314314	CD_1	escape	unchanged
+EIF2S3	CD	1774	2203	3977	biallelic	0.446064873	CD_2	escape	unchanged
+EIF2S3	CD	1867	2349	4216	biallelic	0.442836812	CD_3	escape	unchanged
+EIF2S3	CE	1835	2213	4048	biallelic	0.453310277	CE_1	escape	unchanged
+EIF2S3	CE	1635	2022	3657	biallelic	0.447087777	CE_2	escape	unchanged
+EIF2S3	CE	1920	2286	4206	biallelic	0.456490728	CE_3	escape	unchanged
+EIF2S3	F002	2176	1723	3899	biallelic	0.441908182	F002_1	escape	unchanged
+EIF2S3	F002	1926	1763	3689	biallelic	0.477907292	F002_2	escape	unchanged
+EIF2S3	F002	1973	1709	3682	biallelic	0.464149919	F002_3	escape	unchanged
+EIF2S3	F7cl15	1836	0	1836	monoallelic	0.0	F7cl15_1	escape	unchanged
+EIF2S3	F7cl15	1727	0	1727	monoallelic	0.0	F7cl15_2	escape	unchanged
+EIF2S3	F7cl15	1767	0	1767	monoallelic	0.0	F7cl15_3	escape	unchanged
+EIF2S3	F7cl4	1762	0	1762	monoallelic	0.0	F7cl4_1	escape	unchanged
+EIF2S3	F7cl4	1712	0	1712	monoallelic	0.0	F7cl4_2	escape	unchanged
+EIF2S3	F7cl4	1601	0	1601	monoallelic	0.0	F7cl4_3	escape	unchanged
+EOLA1	F002	0	17	17	monoallelic	0.0	F002_2	inactive	unchanged
+EOLA1	F002	0	13	13	monoallelic	0.0	F002_3	inactive	unchanged
+FAAH2	F7cl15	0	14	14	monoallelic	0.0	F7cl15_2	inactive	unchanged
+FAAH2	F7cl4	0	10	10	monoallelic	0.0	F7cl4_2	inactive	unchanged
+FAM155B	ASD	48	0	48	monoallelic	0.0	ASD_1		sporadic up
+FAM155B	ASD	42	0	42	monoallelic	0.0	ASD_2		sporadic up
+FAM155B	ASD	57	0	57	monoallelic	0.0	ASD_3		sporadic up
+FAM155B	CD	0	48	48	monoallelic	0.0	CD_1		sporadic up
+FAM155B	CD	0	50	50	monoallelic	0.0	CD_2		sporadic up
+FAM155B	CD	0	73	73	monoallelic	0.0	CD_3		sporadic up
+FAM155B	CE	23	0	23	monoallelic	0.0	CE_1		sporadic up
+FAM155B	CE	33	0	33	monoallelic	0.0	CE_2		sporadic up
+FAM155B	CE	36	0	36	monoallelic	0.0	CE_3		sporadic up
+FAM155B	F002	76	0	76	monoallelic	0.0	F002_1		sporadic up
+FAM155B	F002	83	0	83	monoallelic	0.0	F002_2		sporadic up
+FAM155B	F002	68	0	68	monoallelic	0.0	F002_3		sporadic up
+FAM155B	F7cl15	0	34	34	monoallelic	0.0	F7cl15_1		sporadic up
+FAM155B	F7cl15	0	38	38	monoallelic	0.0	F7cl15_2		sporadic up
+FAM155B	F7cl15	0	49	49	monoallelic	0.0	F7cl15_3		sporadic up
+FAM155B	F7cl4	0	47	47	monoallelic	0.0	F7cl4_1		sporadic up
+FAM155B	F7cl4	0	39	39	monoallelic	0.0	F7cl4_2		sporadic up
+FAM155B	F7cl4	0	42	42	monoallelic	0.0	F7cl4_3		sporadic up
+FGD1	CD	141	0	141	monoallelic	0.0	CD_1	inactive	unchanged
+FGD1	CD	138	0	138	monoallelic	0.0	CD_2	inactive	unchanged
+FGD1	CD	130	0	130	monoallelic	0.0	CD_3	inactive	unchanged
+FGD1	CE	0	129	129	monoallelic	0.0	CE_1	inactive	unchanged
+FGD1	CE	0	140	140	monoallelic	0.0	CE_2	inactive	unchanged
+FGD1	CE	0	120	120	monoallelic	0.0	CE_3	inactive	unchanged
+FLNA	F002	0	46	46	monoallelic	0.0	F002_1	inactive	sporadic up
+FLNA	F002	0	19	19	monoallelic	0.0	F002_2	inactive	sporadic up
+FLNA	F002	0	15	15	monoallelic	0.0	F002_3	inactive	sporadic up
+GABRQ	F002	19	0	19	monoallelic	0.0	F002_1		unchanged
+GABRQ	F002	15	0	15	monoallelic	0.0	F002_2		unchanged
+GABRQ	F002	12	0	12	monoallelic	0.0	F002_3		unchanged
+GABRQ	F7cl15	0	10	10	monoallelic	0.0	F7cl15_1		unchanged
+GABRQ	F7cl15	0	22	22	monoallelic	0.0	F7cl15_2		unchanged
+GABRQ	F7cl15	0	32	32	monoallelic	0.0	F7cl15_3		unchanged
+GABRQ	F7cl4	0	17	17	monoallelic	0.0	F7cl4_1		unchanged
+GABRQ	F7cl4	0	25	25	monoallelic	0.0	F7cl4_2		unchanged
+GABRQ	F7cl4	0	16	16	monoallelic	0.0	F7cl4_3		unchanged
+GDPD2	CD	0	124	124	monoallelic	0.0	CD_1		sporadic down
+GDPD2	CD	0	107	107	monoallelic	0.0	CD_2		sporadic down
+GDPD2	CD	0	74	74	monoallelic	0.0	CD_3		sporadic down
+GDPD2	CE	83	0	83	monoallelic	0.0	CE_1		sporadic down
+GDPD2	CE	99	0	99	monoallelic	0.0	CE_2		sporadic down
+GDPD2	CE	119	0	119	monoallelic	0.0	CE_3		sporadic down
+GPC4	ASD	39	666	705	monoallelic	0.055319149	ASD_1	inactive	consistent up
+GPC4	ASD	34	678	712	monoallelic	0.047752809	ASD_2	inactive	consistent up
+GPC4	ASD	55	711	766	monoallelic	0.071801567	ASD_3	inactive	consistent up
+GPC4	F002	1427	181	1608	monoallelic	0.112562189	F002_1	inactive	consistent up
+GPC4	F002	972	106	1078	monoallelic	0.098330241	F002_2	inactive	consistent up
+GPC4	F002	1022	89	1111	monoallelic	0.080108011	F002_3	inactive	consistent up
+GPR173	F002	0	59	59	monoallelic	0.0	F002_1	inactive	sporadic up
+GPR173	F002	0	37	37	monoallelic	0.0	F002_2	inactive	sporadic up
+GPR173	F002	0	37	37	monoallelic	0.0	F002_3	inactive	sporadic up
+GRIA3	CD	4	25	29	in-between	0.137931034	CD_1	variable	sporadic up
+GRIA3	CD	7	7	14	in-between	0.5	CD_2	variable	sporadic up
+GRIA3	CD	10	19	29	in-between	0.344827586	CD_3	variable	sporadic up
+GRIA3	CE	11	0	11	monoallelic	0.0	CE_3	variable	sporadic up
+GRIPAP1	ASD	0	116	116	monoallelic	0.0	ASD_1	inactive	unchanged
+GRIPAP1	ASD	0	120	120	monoallelic	0.0	ASD_2	inactive	unchanged
+GRIPAP1	ASD	0	108	108	monoallelic	0.0	ASD_3	inactive	unchanged
+GRIPAP1	F7cl15	150	0	150	monoallelic	0.0	F7cl15_1	inactive	unchanged
+GRIPAP1	F7cl15	142	0	142	monoallelic	0.0	F7cl15_2	inactive	unchanged
+GRIPAP1	F7cl15	128	0	128	monoallelic	0.0	F7cl15_3	inactive	unchanged
+GRIPAP1	F7cl4	186	0	186	monoallelic	0.0	F7cl4_1	inactive	unchanged
+GRIPAP1	F7cl4	157	0	157	monoallelic	0.0	F7cl4_2	inactive	unchanged
+GRIPAP1	F7cl4	109	0	109	monoallelic	0.0	F7cl4_3	inactive	unchanged
+GRPR	ASD	25	8	33	in-between	0.242424242	ASD_1	variable	consistent up
+GRPR	ASD	32	5	37	in-between	0.135135135	ASD_2	variable	consistent up
+GRPR	ASD	42	8	50	in-between	0.16	ASD_3	variable	consistent up
+GRPR	F7cl15	11	47	58	in-between	0.189655172	F7cl15_1	variable	consistent up
+GRPR	F7cl15	14	19	33	in-between	0.424242424	F7cl15_2	variable	consistent up
+GRPR	F7cl15	5	22	27	in-between	0.185185185	F7cl15_3	variable	consistent up
+GRPR	F7cl4	86	57	143	biallelic	0.398601399	F7cl4_1	variable	consistent up
+GRPR	F7cl4	47	44	91	biallelic	0.483516484	F7cl4_2	variable	consistent up
+GRPR	F7cl4	35	22	57	biallelic	0.385964912	F7cl4_3	variable	consistent up
+GSPT2	ASD	100	2	102	monoallelic	0.019607843	ASD_1	inactive	unchanged
+GSPT2	ASD	98	0	98	monoallelic	0.0	ASD_2	inactive	unchanged
+GSPT2	ASD	128	0	128	monoallelic	0.0	ASD_3	inactive	unchanged
+HDAC8	CD	48	0	48	monoallelic	0.0	CD_1	inactive	sporadic down
+HDAC8	CD	38	0	38	monoallelic	0.0	CD_2	inactive	sporadic down
+HDAC8	CD	44	0	44	monoallelic	0.0	CD_3	inactive	sporadic down
+HDAC8	CE	0	16	16	monoallelic	0.0	CE_1	inactive	sporadic down
+HDAC8	CE	0	19	19	monoallelic	0.0	CE_2	inactive	sporadic down
+HDAC8	CE	0	40	40	monoallelic	0.0	CE_3	inactive	sporadic down
+HDAC8	F002	39	0	39	monoallelic	0.0	F002_1	inactive	sporadic down
+HDAC8	F002	20	0	20	monoallelic	0.0	F002_2	inactive	sporadic down
+HDAC8	F002	39	0	39	monoallelic	0.0	F002_3	inactive	sporadic down
+HEPH	F002	215	0	215	monoallelic	0.0	F002_1	inactive	unchanged
+HEPH	F002	216	0	216	monoallelic	0.0	F002_2	inactive	unchanged
+HEPH	F002	184	0	184	monoallelic	0.0	F002_3	inactive	unchanged
+HEPH	F7cl15	0	281	281	monoallelic	0.0	F7cl15_1	inactive	unchanged
+HEPH	F7cl15	0	179	179	monoallelic	0.0	F7cl15_2	inactive	unchanged
+HEPH	F7cl15	0	222	222	monoallelic	0.0	F7cl15_3	inactive	unchanged
+HEPH	F7cl4	0	279	279	monoallelic	0.0	F7cl4_1	inactive	unchanged
+HEPH	F7cl4	0	239	239	monoallelic	0.0	F7cl4_2	inactive	unchanged
+HEPH	F7cl4	0	212	212	monoallelic	0.0	F7cl4_3	inactive	unchanged
+HTATSF1	CD	24	491	515	monoallelic	0.046601942	CD_1	inactive	unchanged
+HTATSF1	CD	14	425	439	monoallelic	0.031890661	CD_2	inactive	unchanged
+HTATSF1	CD	21	426	447	monoallelic	0.046979866	CD_3	inactive	unchanged
+HTATSF1	CE	446	0	446	monoallelic	0.0	CE_1	inactive	unchanged
+HTATSF1	CE	431	0	431	monoallelic	0.0	CE_2	inactive	unchanged
+HTATSF1	CE	390	0	390	monoallelic	0.0	CE_3	inactive	unchanged
+HUWE1	F002	98	0	98	monoallelic	0.0	F002_1	inactive	unchanged
+HUWE1	F002	85	0	85	monoallelic	0.0	F002_2	inactive	unchanged
+HUWE1	F002	80	0	80	monoallelic	0.0	F002_3	inactive	unchanged
+HUWE1	F7cl15	108	0	108	monoallelic	0.0	F7cl15_1	inactive	unchanged
+HUWE1	F7cl15	134	1	135	monoallelic	0.007407407	F7cl15_2	inactive	unchanged
+HUWE1	F7cl15	135	0	135	monoallelic	0.0	F7cl15_3	inactive	unchanged
+HUWE1	F7cl4	77	0	77	monoallelic	0.0	F7cl4_1	inactive	unchanged
+HUWE1	F7cl4	150	0	150	monoallelic	0.0	F7cl4_2	inactive	unchanged
+HUWE1	F7cl4	98	0	98	monoallelic	0.0	F7cl4_3	inactive	unchanged
+IDS	CD	90	2	92	monoallelic	0.02173913	CD_1	inactive	unchanged
+IDS	CD	74	3	77	monoallelic	0.038961039	CD_2	inactive	unchanged
+IDS	CD	93	2	95	monoallelic	0.021052632	CD_3	inactive	unchanged
+IDS	CE	0	74	74	monoallelic	0.0	CE_1	inactive	unchanged
+IDS	CE	0	75	75	monoallelic	0.0	CE_2	inactive	unchanged
+IDS	CE	0	73	73	monoallelic	0.0	CE_3	inactive	unchanged
+IDS	F002	0	78	78	monoallelic	0.0	F002_1	inactive	unchanged
+IDS	F002	0	113	113	monoallelic	0.0	F002_2	inactive	unchanged
+IDS	F002	1	100	101	monoallelic	0.00990099	F002_3	inactive	unchanged
+IGSF1	ASD	58	6	64	in-between	0.09375	ASD_1	inactive	sporadic up
+IGSF1	ASD	43	12	55	in-between	0.218181818	ASD_2	inactive	sporadic up
+IGSF1	ASD	77	7	84	in-between	0.083333333	ASD_3	inactive	sporadic up
+INTS6L	ASD	0	41	41	monoallelic	0.0	ASD_1	inactive	unchanged
+INTS6L	ASD	0	50	50	monoallelic	0.0	ASD_2	inactive	unchanged
+INTS6L	ASD	0	42	42	monoallelic	0.0	ASD_3	inactive	unchanged
+INTS6L	F002	36	0	36	monoallelic	0.0	F002_1	inactive	unchanged
+INTS6L	F002	33	0	33	monoallelic	0.0	F002_2	inactive	unchanged
+INTS6L	F002	25	0	25	monoallelic	0.0	F002_3	inactive	unchanged
+IRAK1	ASD	137	0	137	monoallelic	0.0	ASD_1	inactive	unchanged
+IRAK1	ASD	143	0	143	monoallelic	0.0	ASD_2	inactive	unchanged
+IRAK1	ASD	146	0	146	monoallelic	0.0	ASD_3	inactive	unchanged
+IRAK1	F002	0	104	104	monoallelic	0.0	F002_1	inactive	unchanged
+IRAK1	F002	0	107	107	monoallelic	0.0	F002_2	inactive	unchanged
+IRAK1	F002	0	81	81	monoallelic	0.0	F002_3	inactive	unchanged
+IRS4	CD	7	20	27	biallelic	0.259259259	CD_1		sporadic up
+IRS4	CD	29	31	60	biallelic	0.483333333	CD_2		sporadic up
+IRS4	CD	29	28	57	biallelic	0.49122807	CD_3		sporadic up
+IRS4	CE	4	15	19	in-between	0.210526316	CE_1		sporadic up
+IRS4	CE	4	26	30	in-between	0.133333333	CE_2		sporadic up
+IRS4	CE	12	17	29	in-between	0.413793103	CE_3		sporadic up
+IRS4	F002	24	0	24	monoallelic	0.0	F002_1		sporadic up
+IRS4	F002	16	0	16	monoallelic	0.0	F002_2		sporadic up
+IRS4	F002	13	0	13	monoallelic	0.0	F002_3		sporadic up
+KCNE5	CD	39	45	84	biallelic	0.464285714	CD_1		sporadic up
+KCNE5	CD	22	39	61	biallelic	0.360655738	CD_2		sporadic up
+KCNE5	CD	29	32	61	biallelic	0.475409836	CD_3		sporadic up
+KCNE5	CE	5	30	35	in-between	0.142857143	CE_1		sporadic up
+KCNE5	CE	11	24	35	in-between	0.314285714	CE_2		sporadic up
+KCNE5	CE	10	38	48	in-between	0.208333333	CE_3		sporadic up
+KIF4A	ASD	142	0	142	monoallelic	0.0	ASD_1	inactive	unchanged
+KIF4A	ASD	153	0	153	monoallelic	0.0	ASD_2	inactive	unchanged
+KIF4A	ASD	163	0	163	monoallelic	0.0	ASD_3	inactive	unchanged
+KIF4A	CD	0	125	125	monoallelic	0.0	CD_1	inactive	unchanged
+KIF4A	CD	0	102	102	monoallelic	0.0	CD_2	inactive	unchanged
+KIF4A	CD	0	140	140	monoallelic	0.0	CD_3	inactive	unchanged
+KIF4A	CE	120	0	120	monoallelic	0.0	CE_1	inactive	unchanged
+KIF4A	CE	88	0	88	monoallelic	0.0	CE_2	inactive	unchanged
+KIF4A	CE	112	0	112	monoallelic	0.0	CE_3	inactive	unchanged
+KLHL4	F002	102	46	148	in-between	0.310810811	F002_1	inactive	unchanged
+KLHL4	F002	102	33	135	in-between	0.244444444	F002_2	inactive	unchanged
+KLHL4	F002	98	37	135	in-between	0.274074074	F002_3	inactive	unchanged
+LAMP2	CD	300	0	300	monoallelic	0.0	CD_1	inactive	unchanged
+LAMP2	CD	254	0	254	monoallelic	0.0	CD_2	inactive	unchanged
+LAMP2	CD	222	0	222	monoallelic	0.0	CD_3	inactive	unchanged
+LAMP2	CE	0	212	212	monoallelic	0.0	CE_1	inactive	unchanged
+LAMP2	CE	0	206	206	monoallelic	0.0	CE_2	inactive	unchanged
+LAMP2	CE	0	232	232	monoallelic	0.0	CE_3	inactive	unchanged
+LINC01560	ASD	12	0	12	monoallelic	0.0	ASD_2	inactive	unchanged
+LINC01560	ASD	12	0	12	monoallelic	0.0	ASD_3	inactive	unchanged
+MAGED1	ASD	0	417	417	monoallelic	0.0	ASD_1	inactive	unchanged
+MAGED1	ASD	1	426	427	monoallelic	0.00234192	ASD_2	inactive	unchanged
+MAGED1	ASD	0	577	577	monoallelic	0.0	ASD_3	inactive	unchanged
+MAGIX	CD	15	0	15	monoallelic	0.0	CD_2		unchanged
+MAOA	F002	31	1	32	monoallelic	0.03125	F002_1	escape	unchanged
+MAOA	F002	20	0	20	monoallelic	0.0	F002_2	escape	unchanged
+MAOA	F002	15	0	15	monoallelic	0.0	F002_3	escape	unchanged
+MAOA	F7cl15	35	0	35	monoallelic	0.0	F7cl15_1	escape	unchanged
+MAOA	F7cl15	29	0	29	monoallelic	0.0	F7cl15_2	escape	unchanged
+MAOA	F7cl15	27	0	27	monoallelic	0.0	F7cl15_3	escape	unchanged
+MAOA	F7cl4	29	1	30	monoallelic	0.033333333	F7cl4_1	escape	unchanged
+MAOA	F7cl4	21	1	22	monoallelic	0.045454545	F7cl4_2	escape	unchanged
+MAOA	F7cl4	32	1	33	monoallelic	0.03030303	F7cl4_3	escape	unchanged
+MAP7D2	CD	7	7	14	biallelic	0.5	CD_1	inactive	unchanged
+MAP7D2	CE	10	0	10	monoallelic	0.0	CE_3	inactive	unchanged
+MAP7D3	CD	88	18	106	in-between	0.169811321	CD_1	inactive	unchanged
+MAP7D3	CD	83	9	92	in-between	0.097826087	CD_2	inactive	unchanged
+MAP7D3	CD	76	8	84	in-between	0.095238095	CD_3	inactive	unchanged
+MAP7D3	CE	0	103	103	monoallelic	0.0	CE_1	inactive	unchanged
+MAP7D3	CE	0	89	89	monoallelic	0.0	CE_2	inactive	unchanged
+MAP7D3	CE	0	121	121	monoallelic	0.0	CE_3	inactive	unchanged
+MAP7D3	F002	0	88	88	monoallelic	0.0	F002_1	inactive	unchanged
+MAP7D3	F002	0	132	132	monoallelic	0.0	F002_2	inactive	unchanged
+MAP7D3	F002	0	123	123	monoallelic	0.0	F002_3	inactive	unchanged
+MAP7D3	F7cl15	1	120	121	monoallelic	0.008264463	F7cl15_1	inactive	unchanged
+MAP7D3	F7cl15	1	78	79	monoallelic	0.012658228	F7cl15_2	inactive	unchanged
+MAP7D3	F7cl15	0	83	83	monoallelic	0.0	F7cl15_3	inactive	unchanged
+MAP7D3	F7cl4	0	91	91	monoallelic	0.0	F7cl4_1	inactive	unchanged
+MAP7D3	F7cl4	0	90	90	monoallelic	0.0	F7cl4_2	inactive	unchanged
+MAP7D3	F7cl4	0	87	87	monoallelic	0.0	F7cl4_3	inactive	unchanged
+MCF2	ASD	10	0	10	monoallelic	0.0	ASD_3	inactive	unchanged
+MECP2	CD	222	0	222	monoallelic	0.0	CD_1	escape	unchanged
+MECP2	CD	222	0	222	monoallelic	0.0	CD_2	escape	unchanged
+MECP2	CD	191	0	191	monoallelic	0.0	CD_3	escape	unchanged
+MECP2	CE	0	125	125	monoallelic	0.0	CE_1	escape	unchanged
+MECP2	CE	0	143	143	monoallelic	0.0	CE_2	escape	unchanged
+MECP2	CE	0	146	146	monoallelic	0.0	CE_3	escape	unchanged
+MORC4	F7cl15	0	15	15	monoallelic	0.0	F7cl15_1	inactive	sporadic up
+MORC4	F7cl15	0	11	11	monoallelic	0.0	F7cl15_3	inactive	sporadic up
+MORC4	F7cl4	8	5	13	in-between	0.384615385	F7cl4_2	inactive	sporadic up
+MPP1	ASD	49	0	49	monoallelic	0.0	ASD_1	escape	consistent up
+MPP1	ASD	27	0	27	monoallelic	0.0	ASD_2	escape	consistent up
+MPP1	ASD	47	0	47	monoallelic	0.0	ASD_3	escape	consistent up
+MPP1	CD	0	126	126	monoallelic	0.0	CD_1	escape	consistent up
+MPP1	CD	0	114	114	monoallelic	0.0	CD_2	escape	consistent up
+MPP1	CD	0	93	93	monoallelic	0.0	CD_3	escape	consistent up
+MPP1	CE	100	0	100	monoallelic	0.0	CE_1	escape	consistent up
+MPP1	CE	43	0	43	monoallelic	0.0	CE_2	escape	consistent up
+MPP1	CE	79	0	79	monoallelic	0.0	CE_3	escape	consistent up
+MXRA5	ASD	4	10	14	in-between	0.285714286	ASD_3	escape	sporadic up
+MXRA5	CD	4	7	11	biallelic	0.363636364	CD_1	escape	sporadic up
+MXRA5	CD	6	5	11	biallelic	0.454545455	CD_2	escape	sporadic up
+MXRA5	CE	21	8	29	in-between	0.275862069	CE_1	escape	sporadic up
+MXRA5	CE	12	5	17	in-between	0.294117647	CE_2	escape	sporadic up
+MXRA5	CE	10	9	19	in-between	0.473684211	CE_3	escape	sporadic up
+NAA10	ASD	0	10	10	monoallelic	0.0	ASD_3	variable	unchanged
+NAA10	F002	23	0	23	monoallelic	0.0	F002_1	variable	unchanged
+NHSL2	ASD	0	13	13	monoallelic	0.0	ASD_1	variable	unchanged
+NHSL2	F7cl15	13	0	13	monoallelic	0.0	F7cl15_2	variable	unchanged
+NHSL2	F7cl4	21	0	21	monoallelic	0.0	F7cl4_2	variable	unchanged
+NHSL2	F7cl4	19	0	19	monoallelic	0.0	F7cl4_3	variable	unchanged
+NR0B1	CD	8	4	12	in-between	0.333333333	CD_1	escape	unchanged
+NRK	CD	3	10	13	in-between	0.230769231	CD_1	inactive	sporadic up
+NRK	CD	8	17	25	in-between	0.32	CD_2	inactive	sporadic up
+NRK	CD	9	4	13	in-between	0.307692308	CD_3	inactive	sporadic up
+NUDT10	F7cl15	102	0	102	monoallelic	0.0	F7cl15_1	inactive	unchanged
+NUDT10	F7cl15	162	0	162	monoallelic	0.0	F7cl15_2	inactive	unchanged
+NUDT10	F7cl15	147	0	147	monoallelic	0.0	F7cl15_3	inactive	unchanged
+NUDT10	F7cl4	169	0	169	monoallelic	0.0	F7cl4_1	inactive	unchanged
+NUDT10	F7cl4	181	0	181	monoallelic	0.0	F7cl4_2	inactive	unchanged
+NUDT10	F7cl4	185	0	185	monoallelic	0.0	F7cl4_3	inactive	unchanged
+NUP62CL	F7cl15	0	30	30	monoallelic	0.0	F7cl15_1	variable	unchanged
+NUP62CL	F7cl15	0	10	10	monoallelic	0.0	F7cl15_2	variable	unchanged
+NUP62CL	F7cl15	0	14	14	monoallelic	0.0	F7cl15_3	variable	unchanged
+NUP62CL	F7cl4	14	36	50	in-between	0.28	F7cl4_1	variable	unchanged
+NUP62CL	F7cl4	9	18	27	in-between	0.333333333	F7cl4_2	variable	unchanged
+NUP62CL	F7cl4	7	19	26	in-between	0.269230769	F7cl4_3	variable	unchanged
+OFD1	ASD	13	0	13	monoallelic	0.0	ASD_3	escape	unchanged
+OFD1	F7cl15	13	0	13	monoallelic	0.0	F7cl15_3	escape	unchanged
+OFD1	F7cl4	12	0	12	monoallelic	0.0	F7cl4_3	escape	unchanged
+PCSK1N	ASD	1	80	81	monoallelic	0.012345679	ASD_1	inactive	sporadic up
+PCSK1N	ASD	0	64	64	monoallelic	0.0	ASD_2	inactive	sporadic up
+PCSK1N	ASD	0	84	84	monoallelic	0.0	ASD_3	inactive	sporadic up
+PCSK1N	F7cl15	39	0	39	monoallelic	0.0	F7cl15_1	inactive	sporadic up
+PCSK1N	F7cl15	72	0	72	monoallelic	0.0	F7cl15_2	inactive	sporadic up
+PCSK1N	F7cl15	40	0	40	monoallelic	0.0	F7cl15_3	inactive	sporadic up
+PCSK1N	F7cl4	77	0	77	monoallelic	0.0	F7cl4_1	inactive	sporadic up
+PCSK1N	F7cl4	91	1	92	monoallelic	0.010869565	F7cl4_2	inactive	sporadic up
+PCSK1N	F7cl4	61	0	61	monoallelic	0.0	F7cl4_3	inactive	sporadic up
+PDK3	CD	94	60	154	biallelic	0.38961039	CD_1	inactive	consistent up
+PDK3	CD	55	69	124	biallelic	0.443548387	CD_2	inactive	consistent up
+PDK3	CD	113	68	181	biallelic	0.375690608	CD_3	inactive	consistent up
+PDK3	CE	73	67	140	biallelic	0.478571429	CE_1	inactive	consistent up
+PDK3	CE	92	61	153	biallelic	0.39869281	CE_2	inactive	consistent up
+PDK3	CE	82	72	154	biallelic	0.467532468	CE_3	inactive	consistent up
+PDZD4	F002	74	0	74	monoallelic	0.0	F002_1	inactive	unchanged
+PDZD4	F002	91	0	91	monoallelic	0.0	F002_2	inactive	unchanged
+PDZD4	F002	57	0	57	monoallelic	0.0	F002_3	inactive	unchanged
+PGK1	F002	0	11	11	monoallelic	0.0	F002_1	escape	unchanged
+PGK1	F7cl15	20	0	20	monoallelic	0.0	F7cl15_2	escape	unchanged
+PIGA	F7cl15	0	23	23	monoallelic	0.0	F7cl15_1	inactive	unchanged
+PIGA	F7cl15	0	24	24	monoallelic	0.0	F7cl15_2	inactive	unchanged
+PIGA	F7cl15	0	32	32	monoallelic	0.0	F7cl15_3	inactive	unchanged
+PIGA	F7cl4	0	35	35	monoallelic	0.0	F7cl4_1	inactive	unchanged
+PIGA	F7cl4	0	22	22	monoallelic	0.0	F7cl4_2	inactive	unchanged
+PIGA	F7cl4	0	36	36	monoallelic	0.0	F7cl4_3	inactive	unchanged
+PIN4	CD	15	0	15	monoallelic	0.0	CD_1	inactive	unchanged
+PIN4	CD	12	0	12	monoallelic	0.0	CD_2	inactive	unchanged
+PIN4	CD	12	0	12	monoallelic	0.0	CD_3	inactive	unchanged
+PIN4	CE	0	15	15	monoallelic	0.0	CE_1	inactive	unchanged
+PIN4	CE	0	21	21	monoallelic	0.0	CE_3	inactive	unchanged
+PIN4	F002	10	0	10	monoallelic	0.0	F002_1	inactive	unchanged
+PIN4	F002	26	0	26	monoallelic	0.0	F002_2	inactive	unchanged
+PIN4	F002	12	0	12	monoallelic	0.0	F002_3	inactive	unchanged
+PIR	ASD	54	182	236	in-between	0.228813559	ASD_1	inactive	consistent up
+PIR	ASD	26	134	160	in-between	0.1625	ASD_2	inactive	consistent up
+PIR	ASD	63	137	200	in-between	0.315	ASD_3	inactive	consistent up
+PIR	F002	100	96	196	biallelic	0.489795918	F002_1	inactive	consistent up
+PIR	F002	149	132	281	biallelic	0.46975089	F002_2	inactive	consistent up
+PIR	F002	161	138	299	biallelic	0.461538462	F002_3	inactive	consistent up
+PIR	F7cl15	175	7	182	monoallelic	0.038461538	F7cl15_1	inactive	consistent up
+PIR	F7cl15	170	11	181	monoallelic	0.060773481	F7cl15_2	inactive	consistent up
+PIR	F7cl15	240	14	254	monoallelic	0.05511811	F7cl15_3	inactive	consistent up
+PIR	F7cl4	202	110	312	in-between	0.352564103	F7cl4_1	inactive	consistent up
+PIR	F7cl4	156	104	260	in-between	0.4	F7cl4_2	inactive	consistent up
+PIR	F7cl4	242	147	389	in-between	0.377892031	F7cl4_3	inactive	consistent up
+PJA1	CD	175	192	367	biallelic	0.476839237	CD_1	inactive	sporadic up
+PJA1	CD	130	191	321	biallelic	0.404984424	CD_2	inactive	sporadic up
+PJA1	CD	168	194	362	biallelic	0.464088398	CD_3	inactive	sporadic up
+PJA1	CE	230	0	230	monoallelic	0.0	CE_1	inactive	sporadic up
+PJA1	CE	245	0	245	monoallelic	0.0	CE_2	inactive	sporadic up
+PJA1	CE	214	0	214	monoallelic	0.0	CE_3	inactive	sporadic up
+PLXNB3	CE	10	0	10	monoallelic	0.0	CE_3	escape	unchanged
+PNMA3	ASD	0	28	28	monoallelic	0.0	ASD_1	inactive	unchanged
+PNMA3	ASD	0	18	18	monoallelic	0.0	ASD_2	inactive	unchanged
+PNMA3	ASD	0	42	42	monoallelic	0.0	ASD_3	inactive	unchanged
+PQBP1	ASD	0	995	995	monoallelic	0.0	ASD_1	variable	unchanged
+PQBP1	ASD	0	886	886	monoallelic	0.0	ASD_2	variable	unchanged
+PQBP1	ASD	0	1090	1090	monoallelic	0.0	ASD_3	variable	unchanged
+PQBP1	F7cl15	884	0	884	monoallelic	0.0	F7cl15_1	variable	unchanged
+PQBP1	F7cl15	830	0	830	monoallelic	0.0	F7cl15_2	variable	unchanged
+PQBP1	F7cl15	821	0	821	monoallelic	0.0	F7cl15_3	variable	unchanged
+PQBP1	F7cl4	1093	0	1093	monoallelic	0.0	F7cl4_1	variable	unchanged
+PQBP1	F7cl4	909	0	909	monoallelic	0.0	F7cl4_2	variable	unchanged
+PQBP1	F7cl4	860	0	860	monoallelic	0.0	F7cl4_3	variable	unchanged
+PRKX	ASD	89	25	114	in-between	0.219298246	ASD_1	escape	sporadic up
+PRKX	ASD	94	19	113	in-between	0.168141593	ASD_2	escape	sporadic up
+PRKX	ASD	116	37	153	in-between	0.241830065	ASD_3	escape	sporadic up
+PRKX	CD	111	94	205	biallelic	0.458536585	CD_1	escape	sporadic up
+PRKX	CD	130	108	238	biallelic	0.453781513	CD_2	escape	sporadic up
+PRKX	CD	142	99	241	biallelic	0.410788382	CD_3	escape	sporadic up
+PRKX	CE	82	83	165	biallelic	0.496969697	CE_1	escape	sporadic up
+PRKX	CE	89	61	150	biallelic	0.406666667	CE_2	escape	sporadic up
+PRKX	CE	95	100	195	biallelic	0.487179487	CE_3	escape	sporadic up
+PRKX	F7cl15	0	70	70	monoallelic	0.0	F7cl15_1	escape	sporadic up
+PRKX	F7cl15	0	123	123	monoallelic	0.0	F7cl15_2	escape	sporadic up
+PRKX	F7cl15	0	137	137	monoallelic	0.0	F7cl15_3	escape	sporadic up
+PRKX	F7cl4	82	106	188	biallelic	0.436170213	F7cl4_1	escape	sporadic up
+PRKX	F7cl4	95	84	179	biallelic	0.469273743	F7cl4_2	escape	sporadic up
+PRKX	F7cl4	98	102	200	biallelic	0.49	F7cl4_3	escape	sporadic up
+PRPS2	ASD	151	0	151	monoallelic	0.0	ASD_1	inactive	unchanged
+PRPS2	ASD	170	1	171	monoallelic	0.005847953	ASD_2	inactive	unchanged
+PRPS2	ASD	193	0	193	monoallelic	0.0	ASD_3	inactive	unchanged
+PRPS2	CE	10	4	14	in-between	0.285714286	CE_3	inactive	unchanged
+PRPS2	F002	0	136	136	monoallelic	0.0	F002_1	inactive	unchanged
+PRPS2	F002	0	118	118	monoallelic	0.0	F002_2	inactive	unchanged
+PRPS2	F002	0	109	109	monoallelic	0.0	F002_3	inactive	unchanged
+PRPS2	F7cl15	0	173	173	monoallelic	0.0	F7cl15_1	inactive	unchanged
+PRPS2	F7cl15	0	162	162	monoallelic	0.0	F7cl15_2	inactive	unchanged
+PRPS2	F7cl15	0	199	199	monoallelic	0.0	F7cl15_3	inactive	unchanged
+PRPS2	F7cl4	0	163	163	monoallelic	0.0	F7cl4_1	inactive	unchanged
+PRPS2	F7cl4	0	136	136	monoallelic	0.0	F7cl4_2	inactive	unchanged
+PRPS2	F7cl4	0	188	188	monoallelic	0.0	F7cl4_3	inactive	unchanged
+PTCHD1	F002	12	0	12	monoallelic	0.0	F002_1	variable	unchanged
+PUDP	ASD	162	224	386	in-between	0.419689119	ASD_1	escape	unchanged
+PUDP	ASD	119	224	343	in-between	0.346938776	ASD_2	escape	unchanged
+PUDP	ASD	132	201	333	in-between	0.396396396	ASD_3	escape	unchanged
+PUDP	F7cl15	58	123	181	in-between	0.320441989	F7cl15_1	escape	unchanged
+PUDP	F7cl15	54	128	182	in-between	0.296703297	F7cl15_2	escape	unchanged
+PUDP	F7cl15	81	201	282	in-between	0.287234043	F7cl15_3	escape	unchanged
+PUDP	F7cl4	130	144	274	biallelic	0.474452555	F7cl4_1	escape	unchanged
+PUDP	F7cl4	151	114	265	biallelic	0.430188679	F7cl4_2	escape	unchanged
+PUDP	F7cl4	138	138	276	biallelic	0.5	F7cl4_3	escape	unchanged
+RAB40A	F002	24	0	24	monoallelic	0.0	F002_1	inactive	unchanged
+RAB40A	F002	17	1	18	monoallelic	0.055555556	F002_2	inactive	unchanged
+RAB40A	F002	15	0	15	monoallelic	0.0	F002_3	inactive	unchanged
+RAB40A	F7cl15	0	15	15	monoallelic	0.0	F7cl15_1	inactive	unchanged
+RAB40A	F7cl4	0	18	18	monoallelic	0.0	F7cl4_1	inactive	unchanged
+RAB40A	F7cl4	0	20	20	monoallelic	0.0	F7cl4_2	inactive	unchanged
+RAB40A	F7cl4	0	14	14	monoallelic	0.0	F7cl4_3	inactive	unchanged
+RBBP7	ASD	119	310	429	in-between	0.277389277	ASD_1	inactive	consistent up
+RBBP7	ASD	100	286	386	in-between	0.259067358	ASD_2	inactive	consistent up
+RBBP7	ASD	102	260	362	in-between	0.281767956	ASD_3	inactive	consistent up
+RBBP7	CD	231	310	541	biallelic	0.426987061	CD_1	inactive	consistent up
+RBBP7	CD	249	296	545	biallelic	0.456880734	CD_2	inactive	consistent up
+RBBP7	CD	252	314	566	biallelic	0.445229682	CD_3	inactive	consistent up
+RBBP7	CE	155	187	342	biallelic	0.453216374	CE_1	inactive	consistent up
+RBBP7	CE	188	208	396	biallelic	0.474747475	CE_2	inactive	consistent up
+RBBP7	CE	238	224	462	biallelic	0.484848485	CE_3	inactive	consistent up
+RBBP7	F7cl15	292	72	364	in-between	0.197802198	F7cl15_1	inactive	consistent up
+RBBP7	F7cl15	293	90	383	in-between	0.234986945	F7cl15_2	inactive	consistent up
+RBBP7	F7cl15	288	107	395	in-between	0.270886076	F7cl15_3	inactive	consistent up
+RBBP7	F7cl4	269	264	533	biallelic	0.495309568	F7cl4_1	inactive	consistent up
+RBBP7	F7cl4	275	291	566	biallelic	0.485865724	F7cl4_2	inactive	consistent up
+RBBP7	F7cl4	258	278	536	biallelic	0.481343284	F7cl4_3	inactive	consistent up
+RBM3	F7cl15	0	18	18	monoallelic	0.0	F7cl15_2	inactive	sporadic down
+RBM3	F7cl15	0	15	15	monoallelic	0.0	F7cl15_3	inactive	sporadic down
+RIBC1	F002	0	13	13	monoallelic	0.0	F002_1	escape	unchanged
+RIBC1	F002	0	10	10	monoallelic	0.0	F002_3	escape	unchanged
+RIBC1	F7cl15	0	19	19	monoallelic	0.0	F7cl15_1	escape	unchanged
+RLIM	F002	0	85	85	monoallelic	0.0	F002_1	inactive	unchanged
+RLIM	F002	0	91	91	monoallelic	0.0	F002_2	inactive	unchanged
+RLIM	F002	0	97	97	monoallelic	0.0	F002_3	inactive	unchanged
+RNF113A	F7cl15	51	0	51	monoallelic	0.0	F7cl15_1		unchanged
+RNF113A	F7cl15	60	0	60	monoallelic	0.0	F7cl15_2		unchanged
+RNF113A	F7cl15	76	0	76	monoallelic	0.0	F7cl15_3		unchanged
+RNF113A	F7cl4	56	0	56	monoallelic	0.0	F7cl4_1		unchanged
+RNF113A	F7cl4	76	0	76	monoallelic	0.0	F7cl4_2		unchanged
+RNF113A	F7cl4	62	0	62	monoallelic	0.0	F7cl4_3		unchanged
+RPGR	ASD	39	0	39	monoallelic	0.0	ASD_1	inactive	sporadic up
+RPGR	ASD	29	0	29	monoallelic	0.0	ASD_2	inactive	sporadic up
+RPGR	ASD	50	0	50	monoallelic	0.0	ASD_3	inactive	sporadic up
+RPL39	ASD	0	19	19	monoallelic	0.0	ASD_1	inactive	sporadic down
+RPL39	ASD	0	26	26	monoallelic	0.0	ASD_2	inactive	sporadic down
+RPL39	F7cl15	0	16	16	monoallelic	0.0	F7cl15_1	inactive	sporadic down
+RPL39	F7cl15	0	15	15	monoallelic	0.0	F7cl15_2	inactive	sporadic down
+RPL39	F7cl15	0	19	19	monoallelic	0.0	F7cl15_3	inactive	sporadic down
+RPL39	F7cl4	0	15	15	monoallelic	0.0	F7cl4_2	inactive	sporadic down
+RPL39	F7cl4	0	19	19	monoallelic	0.0	F7cl4_3	inactive	sporadic down
+RPS6KA3	CD	34	28	62	biallelic	0.451612903	CD_1	inactive	sporadic up
+RPS6KA3	CD	40	39	79	biallelic	0.493670886	CD_2	inactive	sporadic up
+RPS6KA3	CD	47	33	80	biallelic	0.4125	CD_3	inactive	sporadic up
+RPS6KA3	CE	46	0	46	monoallelic	0.0	CE_1	inactive	sporadic up
+RPS6KA3	CE	58	0	58	monoallelic	0.0	CE_2	inactive	sporadic up
+RPS6KA3	CE	48	2	50	monoallelic	0.04	CE_3	inactive	sporadic up
+RPS6KA6	F002	0	47	47	monoallelic	0.0	F002_1	inactive	unchanged
+RPS6KA6	F002	0	46	46	monoallelic	0.0	F002_2	inactive	unchanged
+RPS6KA6	F002	0	42	42	monoallelic	0.0	F002_3	inactive	unchanged
+RTL5	ASD	0	13	13	monoallelic	0.0	ASD_1	inactive	sporadic up
+RTL5	F7cl15	13	0	13	monoallelic	0.0	F7cl15_2	inactive	sporadic up
+RTL5	F7cl4	21	0	21	monoallelic	0.0	F7cl4_2	inactive	sporadic up
+RTL5	F7cl4	19	0	19	monoallelic	0.0	F7cl4_3	inactive	sporadic up
+RTL8B	ASD	97	0	97	monoallelic	0.0	ASD_1	inactive	sporadic up
+RTL8B	ASD	67	0	67	monoallelic	0.0	ASD_2	inactive	sporadic up
+RTL8B	ASD	95	0	95	monoallelic	0.0	ASD_3	inactive	sporadic up
+RTL8B	CD	151	17	168	in-between	0.101190476	CD_1	inactive	sporadic up
+RTL8B	CD	123	10	133	in-between	0.07518797	CD_2	inactive	sporadic up
+RTL8B	CD	96	20	116	in-between	0.172413793	CD_3	inactive	sporadic up
+RTL8B	CE	0	87	87	monoallelic	0.0	CE_1	inactive	sporadic up
+RTL8B	CE	0	80	80	monoallelic	0.0	CE_2	inactive	sporadic up
+RTL8B	CE	0	71	71	monoallelic	0.0	CE_3	inactive	sporadic up
+RTL8B	F002	74	0	74	monoallelic	0.0	F002_1	inactive	sporadic up
+RTL8B	F002	53	0	53	monoallelic	0.0	F002_2	inactive	sporadic up
+RTL8B	F002	82	0	82	monoallelic	0.0	F002_3	inactive	sporadic up
+SCML2	ASD	0	42	42	monoallelic	0.0	ASD_1	inactive	unchanged
+SCML2	ASD	0	58	58	monoallelic	0.0	ASD_2	inactive	unchanged
+SCML2	ASD	0	49	49	monoallelic	0.0	ASD_3	inactive	unchanged
+SHROOM2	ASD	0	18	18	monoallelic	0.0	ASD_2	variable	consistent up
+SHROOM2	ASD	0	23	23	monoallelic	0.0	ASD_3	variable	consistent up
+SHROOM2	CD	12	17	29	biallelic	0.413793103	CD_1	variable	consistent up
+SHROOM2	CD	22	16	38	biallelic	0.421052632	CD_2	variable	consistent up
+SHROOM2	CD	28	24	52	biallelic	0.461538462	CD_3	variable	consistent up
+SHROOM2	CE	9	2	11	in-between	0.181818182	CE_2	variable	consistent up
+SHROOM2	CE	21	4	25	in-between	0.16	CE_3	variable	consistent up
+SHROOM2	F7cl15	27	0	27	monoallelic	0.0	F7cl15_1	variable	consistent up
+SHROOM2	F7cl15	40	0	40	monoallelic	0.0	F7cl15_2	variable	consistent up
+SHROOM2	F7cl15	15	0	15	monoallelic	0.0	F7cl15_3	variable	consistent up
+SHROOM2	F7cl4	23	11	34	in-between	0.323529412	F7cl4_1	variable	consistent up
+SHROOM2	F7cl4	28	21	49	in-between	0.428571429	F7cl4_2	variable	consistent up
+SHROOM2	F7cl4	19	13	32	in-between	0.40625	F7cl4_3	variable	consistent up
+SLC16A2	ASD	123	0	123	monoallelic	0.0	ASD_1	inactive	unchanged
+SLC16A2	ASD	178	0	178	monoallelic	0.0	ASD_2	inactive	unchanged
+SLC16A2	ASD	181	0	181	monoallelic	0.0	ASD_3	inactive	unchanged
+SLC16A2	CD	169	71	240	in-between	0.295833333	CD_1	inactive	unchanged
+SLC16A2	CD	166	98	264	in-between	0.371212121	CD_2	inactive	unchanged
+SLC16A2	CD	193	115	308	in-between	0.373376623	CD_3	inactive	unchanged
+SLC16A2	CE	0	105	105	monoallelic	0.0	CE_1	inactive	unchanged
+SLC16A2	CE	0	100	100	monoallelic	0.0	CE_2	inactive	unchanged
+SLC16A2	CE	0	112	112	monoallelic	0.0	CE_3	inactive	unchanged
+SLC16A2	F002	1	202	203	monoallelic	0.004926108	F002_1	inactive	unchanged
+SLC16A2	F002	0	129	129	monoallelic	0.0	F002_2	inactive	unchanged
+SLC16A2	F002	0	151	151	monoallelic	0.0	F002_3	inactive	unchanged
+SLC25A43	ASD	46	0	46	monoallelic	0.0	ASD_1	inactive	unchanged
+SLC25A43	ASD	22	0	22	monoallelic	0.0	ASD_2	inactive	unchanged
+SLC25A43	ASD	45	0	45	monoallelic	0.0	ASD_3	inactive	unchanged
+SLC25A43	CD	0	27	27	monoallelic	0.0	CD_1	inactive	unchanged
+SLC25A43	CD	0	22	22	monoallelic	0.0	CD_2	inactive	unchanged
+SLC25A43	CD	0	28	28	monoallelic	0.0	CD_3	inactive	unchanged
+SLC25A43	CE	20	0	20	monoallelic	0.0	CE_1	inactive	unchanged
+SLC25A43	CE	24	0	24	monoallelic	0.0	CE_2	inactive	unchanged
+SLC25A43	CE	26	0	26	monoallelic	0.0	CE_3	inactive	unchanged
+SLC25A43	F002	57	0	57	monoallelic	0.0	F002_1	inactive	unchanged
+SLC25A43	F002	67	0	67	monoallelic	0.0	F002_2	inactive	unchanged
+SLC25A43	F002	33	0	33	monoallelic	0.0	F002_3	inactive	unchanged
+SLC25A5	ASD	4395	0	4395	monoallelic	0.0	ASD_1	inactive	unchanged
+SLC25A5	ASD	3940	0	3940	monoallelic	0.0	ASD_2	inactive	unchanged
+SLC25A5	ASD	4361	0	4361	monoallelic	0.0	ASD_3	inactive	unchanged
+SLC25A5	F002	4673	0	4673	monoallelic	0.0	F002_1	inactive	unchanged
+SLC25A5	F002	3898	0	3898	monoallelic	0.0	F002_2	inactive	unchanged
+SLC25A5	F002	4246	1	4247	monoallelic	0.00023546	F002_3	inactive	unchanged
+SLC7A3	F002	1098	2	1100	monoallelic	0.001818182	F002_1		unchanged
+SLC7A3	F002	722	1	723	monoallelic	0.001383126	F002_2		unchanged
+SLC7A3	F002	695	0	695	monoallelic	0.0	F002_3		unchanged
+SLC9A7	ASD	47	0	47	monoallelic	0.0	ASD_1	inactive	unchanged
+SLC9A7	ASD	42	0	42	monoallelic	0.0	ASD_2	inactive	unchanged
+SLC9A7	ASD	41	0	41	monoallelic	0.0	ASD_3	inactive	unchanged
+SLC9A7	CD	33	41	74	biallelic	0.445945946	CD_1	inactive	unchanged
+SLC9A7	CD	36	57	93	biallelic	0.387096774	CD_2	inactive	unchanged
+SLC9A7	CD	48	69	117	biallelic	0.41025641	CD_3	inactive	unchanged
+SLC9A7	CE	23	0	23	monoallelic	0.0	CE_1	inactive	unchanged
+SLC9A7	CE	31	0	31	monoallelic	0.0	CE_2	inactive	unchanged
+SLC9A7	CE	43	0	43	monoallelic	0.0	CE_3	inactive	unchanged
+SLC9A7	F002	31	0	31	monoallelic	0.0	F002_1	inactive	unchanged
+SLC9A7	F002	33	0	33	monoallelic	0.0	F002_2	inactive	unchanged
+SLC9A7	F002	37	0	37	monoallelic	0.0	F002_3	inactive	unchanged
+SLC9A7	F7cl15	0	43	43	monoallelic	0.0	F7cl15_1	inactive	unchanged
+SLC9A7	F7cl15	0	46	46	monoallelic	0.0	F7cl15_2	inactive	unchanged
+SLC9A7	F7cl15	0	74	74	monoallelic	0.0	F7cl15_3	inactive	unchanged
+SLC9A7	F7cl4	0	38	38	monoallelic	0.0	F7cl4_1	inactive	unchanged
+SLC9A7	F7cl4	0	60	60	monoallelic	0.0	F7cl4_2	inactive	unchanged
+SLC9A7	F7cl4	0	44	44	monoallelic	0.0	F7cl4_3	inactive	unchanged
+SMC1A	F7cl15	0	308	308	monoallelic	0.0	F7cl15_1	escape	unchanged
+SMC1A	F7cl15	0	318	318	monoallelic	0.0	F7cl15_2	escape	unchanged
+SMC1A	F7cl15	0	333	333	monoallelic	0.0	F7cl15_3	escape	unchanged
+SMC1A	F7cl4	0	374	374	monoallelic	0.0	F7cl4_1	escape	unchanged
+SMC1A	F7cl4	0	321	321	monoallelic	0.0	F7cl4_2	escape	unchanged
+SMC1A	F7cl4	0	286	286	monoallelic	0.0	F7cl4_3	escape	unchanged
+SOWAHD	ASD	0	52	52	monoallelic	0.0	ASD_1		unchanged
+SOWAHD	ASD	0	63	63	monoallelic	0.0	ASD_2		unchanged
+SOWAHD	ASD	0	79	79	monoallelic	0.0	ASD_3		unchanged
+SOWAHD	CD	61	0	61	monoallelic	0.0	CD_1		unchanged
+SOWAHD	CD	54	1	55	monoallelic	0.018181818	CD_2		unchanged
+SOWAHD	CD	68	0	68	monoallelic	0.0	CD_3		unchanged
+SOWAHD	CE	0	66	66	monoallelic	0.0	CE_1		unchanged
+SOWAHD	CE	0	47	47	monoallelic	0.0	CE_2		unchanged
+SOWAHD	CE	0	86	86	monoallelic	0.0	CE_3		unchanged
+SYN1	CD	0	326	326	monoallelic	0.0	CD_1	inactive	unchanged
+SYN1	CD	1	279	280	monoallelic	0.003571429	CD_2	inactive	unchanged
+SYN1	CD	0	221	221	monoallelic	0.0	CD_3	inactive	unchanged
+SYN1	CE	218	0	218	monoallelic	0.0	CE_1	inactive	unchanged
+SYN1	CE	221	0	221	monoallelic	0.0	CE_2	inactive	unchanged
+SYN1	CE	237	0	237	monoallelic	0.0	CE_3	inactive	unchanged
+SYN1	F7cl15	161	0	161	monoallelic	0.0	F7cl15_1	inactive	unchanged
+SYN1	F7cl15	154	0	154	monoallelic	0.0	F7cl15_2	inactive	unchanged
+SYN1	F7cl15	172	0	172	monoallelic	0.0	F7cl15_3	inactive	unchanged
+SYN1	F7cl4	197	0	197	monoallelic	0.0	F7cl4_1	inactive	unchanged
+SYN1	F7cl4	231	0	231	monoallelic	0.0	F7cl4_2	inactive	unchanged
+SYN1	F7cl4	211	0	211	monoallelic	0.0	F7cl4_3	inactive	unchanged
+TBC1D25	F7cl15	18	0	18	monoallelic	0.0	F7cl15_1	inactive	unchanged
+TBC1D25	F7cl15	24	0	24	monoallelic	0.0	F7cl15_2	inactive	unchanged
+TBC1D25	F7cl15	35	0	35	monoallelic	0.0	F7cl15_3	inactive	unchanged
+TBC1D25	F7cl4	39	0	39	monoallelic	0.0	F7cl4_1	inactive	unchanged
+TBC1D25	F7cl4	34	0	34	monoallelic	0.0	F7cl4_2	inactive	unchanged
+TBC1D25	F7cl4	40	0	40	monoallelic	0.0	F7cl4_3	inactive	unchanged
+TCEANC	ASD	0	14	14	monoallelic	0.0	ASD_1	escape	sporadic up
+TCEANC	F7cl15	0	11	11	monoallelic	0.0	F7cl15_1	escape	sporadic up
+TCEANC	F7cl15	0	14	14	monoallelic	0.0	F7cl15_2	escape	sporadic up
+TCEANC	F7cl15	0	17	17	monoallelic	0.0	F7cl15_3	escape	sporadic up
+TCEANC	F7cl4	0	22	22	monoallelic	0.0	F7cl4_1	escape	sporadic up
+TCEANC	F7cl4	0	16	16	monoallelic	0.0	F7cl4_2	escape	sporadic up
+TFE3	F7cl15	373	0	373	monoallelic	0.0	F7cl15_1	inactive	unchanged
+TFE3	F7cl15	301	0	301	monoallelic	0.0	F7cl15_2	inactive	unchanged
+TFE3	F7cl15	359	0	359	monoallelic	0.0	F7cl15_3	inactive	unchanged
+TFE3	F7cl4	301	0	301	monoallelic	0.0	F7cl4_1	inactive	unchanged
+TFE3	F7cl4	373	0	373	monoallelic	0.0	F7cl4_2	inactive	unchanged
+TFE3	F7cl4	292	0	292	monoallelic	0.0	F7cl4_3	inactive	unchanged
+THOC2	F002	224	0	224	monoallelic	0.0	F002_1	inactive	sporadic down
+THOC2	F002	197	0	197	monoallelic	0.0	F002_2	inactive	sporadic down
+THOC2	F002	242	0	242	monoallelic	0.0	F002_3	inactive	sporadic down
+TIMM17B	ASD	0	995	995	monoallelic	0.0	ASD_1	inactive	unchanged
+TIMM17B	ASD	0	886	886	monoallelic	0.0	ASD_2	inactive	unchanged
+TIMM17B	ASD	0	1090	1090	monoallelic	0.0	ASD_3	inactive	unchanged
+TIMM17B	F7cl15	884	0	884	monoallelic	0.0	F7cl15_1	inactive	unchanged
+TIMM17B	F7cl15	830	0	830	monoallelic	0.0	F7cl15_2	inactive	unchanged
+TIMM17B	F7cl15	821	0	821	monoallelic	0.0	F7cl15_3	inactive	unchanged
+TIMM17B	F7cl4	1093	0	1093	monoallelic	0.0	F7cl4_1	inactive	unchanged
+TIMM17B	F7cl4	909	0	909	monoallelic	0.0	F7cl4_2	inactive	unchanged
+TIMM17B	F7cl4	860	0	860	monoallelic	0.0	F7cl4_3	inactive	unchanged
+TIMP1	CD	0	326	326	monoallelic	0.0	CD_1	variable	sporadic up
+TIMP1	CD	1	279	280	monoallelic	0.003571429	CD_2	variable	sporadic up
+TIMP1	CD	0	221	221	monoallelic	0.0	CD_3	variable	sporadic up
+TIMP1	CE	218	0	218	monoallelic	0.0	CE_1	variable	sporadic up
+TIMP1	CE	221	0	221	monoallelic	0.0	CE_2	variable	sporadic up
+TIMP1	CE	237	0	237	monoallelic	0.0	CE_3	variable	sporadic up
+TIMP1	F7cl15	161	0	161	monoallelic	0.0	F7cl15_1	variable	sporadic up
+TIMP1	F7cl15	154	0	154	monoallelic	0.0	F7cl15_2	variable	sporadic up
+TIMP1	F7cl15	172	0	172	monoallelic	0.0	F7cl15_3	variable	sporadic up
+TIMP1	F7cl4	197	0	197	monoallelic	0.0	F7cl4_1	variable	sporadic up
+TIMP1	F7cl4	231	0	231	monoallelic	0.0	F7cl4_2	variable	sporadic up
+TIMP1	F7cl4	211	0	211	monoallelic	0.0	F7cl4_3	variable	sporadic up
+TMEM185A	CD	11	0	11	monoallelic	0.0	CD_2		sporadic down
+TMEM185A	CD	12	0	12	monoallelic	0.0	CD_3		sporadic down
+TMEM185A	CE	0	16	16	monoallelic	0.0	CE_1		sporadic down
+TMEM185A	F002	0	11	11	monoallelic	0.0	F002_1		sporadic down
+TMEM185A	F002	0	12	12	monoallelic	0.0	F002_2		sporadic down
+TMEM187	ASD	5	17	22	in-between	0.227272727	ASD_1	inactive	sporadic up
+TMEM187	ASD	13	12	25	in-between	0.48	ASD_2	inactive	sporadic up
+TMEM187	ASD	13	28	41	in-between	0.317073171	ASD_3	inactive	sporadic up
+TMEM187	F002	35	0	35	monoallelic	0.0	F002_1	inactive	sporadic up
+TMEM187	F002	41	0	41	monoallelic	0.0	F002_2	inactive	sporadic up
+TMEM187	F002	30	0	30	monoallelic	0.0	F002_3	inactive	sporadic up
+TRAPPC2	ASD	10	0	10	monoallelic	0.0	ASD_1	escape	sporadic up
+TRAPPC2	CD	2	8	10	in-between	0.2	CD_3	escape	sporadic up
+TRAPPC2	CE	6	4	10	biallelic	0.4	CE_1	escape	sporadic up
+TRAPPC2	CE	10	7	17	biallelic	0.411764706	CE_3	escape	sporadic up
+TRMT2B	CD	54	0	54	monoallelic	0.0	CD_1	inactive	unchanged
+TRMT2B	CD	49	0	49	monoallelic	0.0	CD_2	inactive	unchanged
+TRMT2B	CD	33	0	33	monoallelic	0.0	CD_3	inactive	unchanged
+TRMT2B	CE	0	54	54	monoallelic	0.0	CE_1	inactive	unchanged
+TRMT2B	CE	0	53	53	monoallelic	0.0	CE_2	inactive	unchanged
+TRMT2B	CE	0	59	59	monoallelic	0.0	CE_3	inactive	unchanged
+TRMT2B	F002	58	0	58	monoallelic	0.0	F002_1	inactive	unchanged
+TRMT2B	F002	68	0	68	monoallelic	0.0	F002_2	inactive	unchanged
+TRMT2B	F002	66	0	66	monoallelic	0.0	F002_3	inactive	unchanged
+TRMT2B	F7cl15	70	0	70	monoallelic	0.0	F7cl15_1	inactive	unchanged
+TRMT2B	F7cl15	36	0	36	monoallelic	0.0	F7cl15_2	inactive	unchanged
+TRMT2B	F7cl15	49	0	49	monoallelic	0.0	F7cl15_3	inactive	unchanged
+TRMT2B	F7cl4	54	0	54	monoallelic	0.0	F7cl4_1	inactive	unchanged
+TRMT2B	F7cl4	29	0	29	monoallelic	0.0	F7cl4_2	inactive	unchanged
+TRMT2B	F7cl4	29	0	29	monoallelic	0.0	F7cl4_3	inactive	unchanged
+TSIX	ASD	0	327	327	monoallelic	0.0	ASD_1	inactive	consistent down
+TSIX	ASD	0	243	243	monoallelic	0.0	ASD_2	inactive	consistent down
+TSIX	ASD	0	362	362	monoallelic	0.0	ASD_3	inactive	consistent down
+TSIX	F002	11	0	11	monoallelic	0.0	F002_1	inactive	consistent down
+TSIX	F002	10	0	10	monoallelic	0.0	F002_2	inactive	consistent down
+TSIX	F002	12	0	12	monoallelic	0.0	F002_3	inactive	consistent down
+TSPAN6	ASD	0	928	928	monoallelic	0.0	ASD_1	inactive	sporadic down
+TSPAN6	ASD	0	838	838	monoallelic	0.0	ASD_2	inactive	sporadic down
+TSPAN6	ASD	0	747	747	monoallelic	0.0	ASD_3	inactive	sporadic down
+TSPAN6	CD	861	192	1053	in-between	0.182336182	CD_1	inactive	sporadic down
+TSPAN6	CD	652	163	815	in-between	0.2	CD_2	inactive	sporadic down
+TSPAN6	CD	775	162	937	in-between	0.172892209	CD_3	inactive	sporadic down
+TSPAN6	CE	0	628	628	monoallelic	0.0	CE_1	inactive	sporadic down
+TSPAN6	CE	0	704	704	monoallelic	0.0	CE_2	inactive	sporadic down
+TSPAN6	CE	1	717	718	monoallelic	0.001392758	CE_3	inactive	sporadic down
+TSPAN6	F002	0	471	471	monoallelic	0.0	F002_1	inactive	sporadic down
+TSPAN6	F002	0	434	434	monoallelic	0.0	F002_2	inactive	sporadic down
+TSPAN6	F002	0	560	560	monoallelic	0.0	F002_3	inactive	sporadic down
+TSPAN6	F7cl15	865	0	865	monoallelic	0.0	F7cl15_1	inactive	sporadic down
+TSPAN6	F7cl15	1048	0	1048	monoallelic	0.0	F7cl15_2	inactive	sporadic down
+TSPAN6	F7cl15	809	1	810	monoallelic	0.001234568	F7cl15_3	inactive	sporadic down
+TSPAN6	F7cl4	932	0	932	monoallelic	0.0	F7cl4_1	inactive	sporadic down
+TSPAN6	F7cl4	874	0	874	monoallelic	0.0	F7cl4_2	inactive	sporadic down
+TSPAN6	F7cl4	939	0	939	monoallelic	0.0	F7cl4_3	inactive	sporadic down
+TSR2	CD	141	0	141	monoallelic	0.0	CD_1	inactive	unchanged
+TSR2	CD	138	0	138	monoallelic	0.0	CD_2	inactive	unchanged
+TSR2	CD	130	0	130	monoallelic	0.0	CD_3	inactive	unchanged
+TSR2	CE	0	129	129	monoallelic	0.0	CE_1	inactive	unchanged
+TSR2	CE	0	140	140	monoallelic	0.0	CE_2	inactive	unchanged
+TSR2	CE	0	120	120	monoallelic	0.0	CE_3	inactive	unchanged
+TXLNG	ASD	119	310	429	in-between	0.277389277	ASD_1	escape	consistent up
+TXLNG	ASD	100	286	386	in-between	0.259067358	ASD_2	escape	consistent up
+TXLNG	ASD	102	260	362	in-between	0.281767956	ASD_3	escape	consistent up
+TXLNG	CD	231	310	541	biallelic	0.426987061	CD_1	escape	consistent up
+TXLNG	CD	249	296	545	biallelic	0.456880734	CD_2	escape	consistent up
+TXLNG	CD	252	314	566	biallelic	0.445229682	CD_3	escape	consistent up
+TXLNG	CE	155	187	342	biallelic	0.453216374	CE_1	escape	consistent up
+TXLNG	CE	188	208	396	biallelic	0.474747475	CE_2	escape	consistent up
+TXLNG	CE	238	224	462	biallelic	0.484848485	CE_3	escape	consistent up
+TXLNG	F7cl15	292	72	364	in-between	0.197802198	F7cl15_1	escape	consistent up
+TXLNG	F7cl15	293	90	383	in-between	0.234986945	F7cl15_2	escape	consistent up
+TXLNG	F7cl15	288	107	395	in-between	0.270886076	F7cl15_3	escape	consistent up
+TXLNG	F7cl4	269	264	533	biallelic	0.495309568	F7cl4_1	escape	consistent up
+TXLNG	F7cl4	275	291	566	biallelic	0.485865724	F7cl4_2	escape	consistent up
+TXLNG	F7cl4	258	278	536	biallelic	0.481343284	F7cl4_3	escape	consistent up
+U52111.1	F002	0	20	20	monoallelic	0.0	F002_1		unchanged
+U52111.1	F002	0	18	18	monoallelic	0.0	F002_2		unchanged
+U52111.1	F002	0	17	17	monoallelic	0.0	F002_3		unchanged
+U52111.1	F7cl15	0	19	19	monoallelic	0.0	F7cl15_1		unchanged
+U52111.1	F7cl15	0	12	12	monoallelic	0.0	F7cl15_2		unchanged
+U52111.1	F7cl15	0	16	16	monoallelic	0.0	F7cl15_3		unchanged
+U52111.1	F7cl4	0	17	17	monoallelic	0.0	F7cl4_1		unchanged
+U52111.1	F7cl4	0	10	10	monoallelic	0.0	F7cl4_3		unchanged
+USP51	CD	10	0	10	monoallelic	0.0	CD_1		sporadic up
+USP51	CE	0	13	13	monoallelic	0.0	CE_2		sporadic up
+USP51	CE	0	20	20	monoallelic	0.0	CE_3		sporadic up
+WDR44	CD	66	82	148	biallelic	0.445945946	CD_1	inactive	sporadic up
+WDR44	CD	77	76	153	biallelic	0.496732026	CD_2	inactive	sporadic up
+WDR44	CD	68	99	167	biallelic	0.407185629	CD_3	inactive	sporadic up
+WDR44	CE	57	0	57	monoallelic	0.0	CE_1	inactive	sporadic up
+WDR44	CE	61	0	61	monoallelic	0.0	CE_2	inactive	sporadic up
+WDR44	CE	54	0	54	monoallelic	0.0	CE_3	inactive	sporadic up
+XIAP	ASD	0	50	50	monoallelic	0.0	ASD_1	inactive	unchanged
+XIAP	ASD	0	44	44	monoallelic	0.0	ASD_2	inactive	unchanged
+XIAP	ASD	0	60	60	monoallelic	0.0	ASD_3	inactive	unchanged
+XIAP	CD	36	7	43	in-between	0.162790698	CD_1	inactive	unchanged
+XIAP	CD	52	14	66	in-between	0.212121212	CD_2	inactive	unchanged
+XIAP	CD	59	11	70	in-between	0.157142857	CD_3	inactive	unchanged
+XIAP	CE	0	39	39	monoallelic	0.0	CE_1	inactive	unchanged
+XIAP	CE	0	66	66	monoallelic	0.0	CE_2	inactive	unchanged
+XIAP	CE	0	55	55	monoallelic	0.0	CE_3	inactive	unchanged
+XIAP	F7cl15	0	77	77	monoallelic	0.0	F7cl15_1	inactive	unchanged
+XIAP	F7cl15	0	75	75	monoallelic	0.0	F7cl15_2	inactive	unchanged
+XIAP	F7cl15	0	68	68	monoallelic	0.0	F7cl15_3	inactive	unchanged
+XIAP	F7cl4	0	51	51	monoallelic	0.0	F7cl4_1	inactive	unchanged
+XIAP	F7cl4	0	60	60	monoallelic	0.0	F7cl4_2	inactive	unchanged
+XIAP	F7cl4	0	71	71	monoallelic	0.0	F7cl4_3	inactive	unchanged
+XIST	ASD	0	327	327	monoallelic	0.0	ASD_1	inactive	consistent down
+XIST	ASD	0	243	243	monoallelic	0.0	ASD_2	inactive	consistent down
+XIST	ASD	0	362	362	monoallelic	0.0	ASD_3	inactive	consistent down
+XIST	F002	11	0	11	monoallelic	0.0	F002_1	inactive	consistent down
+XIST	F002	10	0	10	monoallelic	0.0	F002_2	inactive	consistent down
+XIST	F002	12	0	12	monoallelic	0.0	F002_3	inactive	consistent down
+Z69733.1	F002	24	0	24	monoallelic	0.0	F002_1		unchanged
+Z69733.1	F002	17	1	18	monoallelic	0.055555556	F002_2		unchanged
+Z69733.1	F002	15	0	15	monoallelic	0.0	F002_3		unchanged
+Z69733.1	F7cl15	0	15	15	monoallelic	0.0	F7cl15_1		unchanged
+Z69733.1	F7cl4	0	18	18	monoallelic	0.0	F7cl4_1		unchanged
+Z69733.1	F7cl4	0	20	20	monoallelic	0.0	F7cl4_2		unchanged
+Z69733.1	F7cl4	0	14	14	monoallelic	0.0	F7cl4_3		unchanged
+Z84466.1	CD	0	326	326	monoallelic	0.0	CD_1		
+Z84466.1	CD	1	279	280	monoallelic	0.003571429	CD_2		
+Z84466.1	CD	0	221	221	monoallelic	0.0	CD_3		
+Z84466.1	CE	218	0	218	monoallelic	0.0	CE_1		
+Z84466.1	CE	221	0	221	monoallelic	0.0	CE_2		
+Z84466.1	CE	237	0	237	monoallelic	0.0	CE_3		
+Z84466.1	F7cl15	161	0	161	monoallelic	0.0	F7cl15_1		
+Z84466.1	F7cl15	154	0	154	monoallelic	0.0	F7cl15_2		
+Z84466.1	F7cl15	172	0	172	monoallelic	0.0	F7cl15_3		
+Z84466.1	F7cl4	197	0	197	monoallelic	0.0	F7cl4_1		
+Z84466.1	F7cl4	231	0	231	monoallelic	0.0	F7cl4_2		
+Z84466.1	F7cl4	211	0	211	monoallelic	0.0	F7cl4_3		
+ZNF157	ASD	10	0	10	monoallelic	0.0	ASD_1	variable	unchanged
+ZNF185	CD	35	0	35	monoallelic	0.0	CD_1	inactive	unchanged
+ZNF185	CD	19	0	19	monoallelic	0.0	CD_2	inactive	unchanged
+ZNF185	CD	38	0	38	monoallelic	0.0	CD_3	inactive	unchanged
+ZNF185	CE	0	30	30	monoallelic	0.0	CE_1	inactive	unchanged
+ZNF185	CE	0	24	24	monoallelic	0.0	CE_2	inactive	unchanged
+ZNF185	CE	0	48	48	monoallelic	0.0	CE_3	inactive	unchanged
+ZNF185	F7cl15	0	36	36	monoallelic	0.0	F7cl15_1	inactive	unchanged
+ZNF185	F7cl15	0	12	12	monoallelic	0.0	F7cl15_2	inactive	unchanged
+ZNF185	F7cl15	0	23	23	monoallelic	0.0	F7cl15_3	inactive	unchanged
+ZNF185	F7cl4	0	29	29	monoallelic	0.0	F7cl4_1	inactive	unchanged
+ZNF185	F7cl4	0	25	25	monoallelic	0.0	F7cl4_2	inactive	unchanged
+ZNF185	F7cl4	0	25	25	monoallelic	0.0	F7cl4_3	inactive	unchanged
+ZNF280C	ASD	35	0	35	monoallelic	0.0	ASD_1	variable	unchanged
+ZNF280C	ASD	44	0	44	monoallelic	0.0	ASD_2	variable	unchanged
+ZNF280C	ASD	41	0	41	monoallelic	0.0	ASD_3	variable	unchanged
+ZNF280C	CD	14	27	41	biallelic	0.341463415	CD_1	variable	unchanged
+ZNF280C	CD	17	17	34	biallelic	0.5	CD_2	variable	unchanged
+ZNF280C	CD	19	27	46	biallelic	0.413043478	CD_3	variable	unchanged
+ZNF280C	CE	49	0	49	monoallelic	0.0	CE_1	variable	unchanged
+ZNF280C	CE	38	0	38	monoallelic	0.0	CE_2	variable	unchanged
+ZNF280C	CE	42	0	42	monoallelic	0.0	CE_3	variable	unchanged
+ZNF280C	F002	0	40	40	monoallelic	0.0	F002_1	variable	unchanged
+ZNF280C	F002	0	29	29	monoallelic	0.0	F002_2	variable	unchanged
+ZNF280C	F002	0	36	36	monoallelic	0.0	F002_3	variable	unchanged
+ZNF41	ASD	0	29	29	monoallelic	0.0	ASD_1	inactive	unchanged
+ZNF41	ASD	0	25	25	monoallelic	0.0	ASD_2	inactive	unchanged
+ZNF41	ASD	0	11	11	monoallelic	0.0	ASD_3	inactive	unchanged
+ZNF41	F002	17	0	17	monoallelic	0.0	F002_1	inactive	unchanged
+ZNF41	F002	10	0	10	monoallelic	0.0	F002_2	inactive	unchanged
+ZNF449	ASD	0	35	35	monoallelic	0.0	ASD_1	inactive	unchanged
+ZNF449	ASD	0	23	23	monoallelic	0.0	ASD_2	inactive	unchanged
+ZNF449	ASD	0	32	32	monoallelic	0.0	ASD_3	inactive	unchanged
+ZNF449	F002	0	27	27	monoallelic	0.0	F002_1	inactive	unchanged
+ZNF449	F002	1	32	33	monoallelic	0.03030303	F002_2	inactive	unchanged
+ZNF449	F002	0	25	25	monoallelic	0.0	F002_3	inactive	unchanged

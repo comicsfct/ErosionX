@@ -1,0 +1,4 @@
+XCI	consistent up	sporadic up	sporadic down	consistent down	unchanged
+escape	13.095	27.381	1.190	0.000	58.333
+variable	8.000	22.000	4.000	2.000	64.000
+inactive	4.737	23.947	5.789	0.526	65.000

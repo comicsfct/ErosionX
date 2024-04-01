@@ -1,0 +1,6 @@
+category	count
+sporadic up        145
+consistent up       41
+unchanged          598
+consistent down      3
+sporadic down       36

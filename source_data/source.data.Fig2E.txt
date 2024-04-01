@@ -1,0 +1,1667 @@
+chr	start	end	gene_name	mark	XCI
+chrX	11.758158	11.775772	MSL3	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	153.93526799999998	153.944687	RENBP	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	14.006725	14.029893	GEMIN8	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	112.454499	112.457112	RTL4	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	3.604339	3.7136489999999998	PRKX	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	119.61572299999999	119.69337	SEPTIN6	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	7.898245999999999	7.927739	PNPLA4	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	53.225826999999995	53.321349999999995	IQSEC2	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	15.627317	15.675011999999999	CLTRN	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	68.647665	68.725842	STARD8	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	44.523638	44.542859	FUNDC1	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	53.19132	53.225421999999995	KDM5C	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	13.653188	13.681963999999999	TCEANC	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	13.689127	13.710504	RAB9A	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	2.4864129999999998	2.500976	ZBED1	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	1.5916029999999999	1.60252	AKAP17A	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	3.308564	3.3466519999999997	MXRA5	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	2.752039	2.8165	XG	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	13.712242999999999	13.734634999999999	TRAPPC2	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	47.19086	47.215128	UBA1	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	2.903971	2.9293489999999998	ARSD	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	41.085443999999995	41.236579	USP9X	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	40.648303999999996	40.735858	MED14	"Sporadic Up 
+hiPSC DEGs"	escape
+chrX	47.142215	47.145038	NDUFB11	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	108.084206	108.091549	PSMD10	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	37.349308	37.457291999999995	PRRG1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	104.11213	104.115842	ZCCHC18	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	49.174800999999995	49.186527999999996	PRICKLE3	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	23.664261	23.686397	PRDX4	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	103.77371699999999	103.792619	PLP1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	69.16085	69.165521	PJA1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	48.913180999999994	48.919024	PIM2	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	65.588376	65.741931	MSN	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	134.373311	134.428791	PHF6	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	129.539848	129.592561	OCRL	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	105.822538	105.95861	NRK	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	56.72924	56.819179	NBDY	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	71.14483	71.171201	NLGN3	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	115.561173	115.65086099999999	PLS3	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	48.831095	48.835609999999996	PCSK1N	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	20.14991	20.267519	RPS6KA3	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	17.800048	17.861337	RAI2	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	118.34607199999999	118.44996099999999	WDR44	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	56.563626	56.567868	UBQLN2	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	154.483716	154.486615	UBL4A	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	12.975109	12.977227	TMSB4X	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	103.91889499999999	103.966712	TMSB15B	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	153.97275299999998	153.983194	TMEM187	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	103.33022799999999	103.332326	TCEAL7	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	103.57623	103.587729	TCEAL4	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	103.60745	103.62969	TCEAL3	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	9.463294	9.741037	TBL1X	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	30.827441	30.975084	TAB3	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	132.023301	132.075943	STK26	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	21.940708	21.994837	SMS	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	129.4465	129.52349999999998	SMARCA1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	48.903178999999994	48.911958	SLC35A2	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	104.09921299999999	104.157009	SLC25A53	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	130.339887	130.373361	SLC25A14	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	50.591640999999996	50.814302	SHROOM4	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	23.783172	23.786226	SAT1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	135.020512	135.022542	RTL8B	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	72.12710899999999	72.131901	RTL5	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	134.887631	134.915257	MOSPD1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	38.269162	38.327543999999996	RPGR	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	130.401986	130.413656	RBMX2	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	132.203023	132.21948	RAP2C	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	106.61192899999999	106.679439	RADX	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	106.81387	107.00021199999999	MORC4	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	135.248919	135.344109	ZNF75D	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	130.622324	130.903317	ENOX2	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	55.000361999999996	55.009057	APEX2	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	14.83596	14.873069	FANCB	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	154.506158	154.516242	FAM3A	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	129.64525799999998	129.654956	APLN	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	104.16645199999999	104.19590199999999	FAM199X	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	23.833351999999998	23.907937999999998	APOO	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	93.67401199999999	93.712274	FAM133A	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	134.769565	134.79723199999998	FAM122B	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	55.143100999999994	55.16131	FAM104B	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	134.543118	134.546642	MIR503HG	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	139.72634499999998	139.945276	ATP11C	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	47.63552	47.650604	ELK1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	11.11765	11.66592	ARHGAP6	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	118.495814	118.686163	DOCK11	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	31.097676	33.339608999999996	DMD	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	108.15560599999999	108.43949699999999	COL4A6	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	108.439837	108.69754499999999	COL4A5	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	136.665546	136.780932	ARHGEF6	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	10.156974	10.23766	CLCN4	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	85.86117899999999	86.047561	CHM	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	15.235287	15.270467	ASB9	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	49.053571	49.069857	CCDC120	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	130.063954	130.110716	ELF4	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	110.19418499999999	110.44031799999999	AMMECR1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	136.146701	136.211359	FHL1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	46.912275	47.061242	JADE3	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	38.801431	38.806537	MID1IP1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	130.124665	130.165879	AIFM1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	43.766608999999995	43.88245	MAOB	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	55.452126	55.453565999999995	MAGEH1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	115.110615	115.234096	LRCH2	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	141.111604	141.17712899999998	LDOC1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	48.961377	48.971844	KCND1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	154.348523	154.374634	FLNA	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	103.37639399999999	103.378164	BEX3	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	154.53139	154.547572	G6PD	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	154.67524799999998	154.75158299999998	GAB3	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	131.273505	131.578899	IGSF1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	153.785765	153.794523	IDH3G	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	133.535744	133.985594	GPC3	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	134.460164	134.520513	HPRT1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	118.727132	118.794535	IL13RA1	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	53.048787999999995	53.080614999999995	GPR173	"Sporadic Up 
+hiPSC DEGs"	inactive
+chrX	103.84514999999999	103.91954799999999	TMSB15B-AS1	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	128.027321	129.326707	AL008633.1	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	49.879483	49.882557999999996	USP27X	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	113.616299	114.05928899999999	XACT	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	108.73601	108.739223	AL035425.1	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	131.57868	131.611684	AL365256.1	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	55.484615	55.489202	USP51	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	107.980863	107.98236999999999	TEX13B	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	140.091414	140.092911	AL589987.1	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	103.687283	103.691772	MORF4L2-AS1	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	134.237046	134.246207	CCDC160	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	40.735399	40.738701	MED14OS	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	109.623699	109.62517199999999	KCNE5	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	108.719945	108.73656299999999	IRS4	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	3.8175269999999997	3.937855	BX890604.1	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	132.217052	132.432862	RAP2C-AS1	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	106.693793	106.797016	RNF128	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	103.707033	103.91904699999999	AC234782.2	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	140.502984	140.505069	SOX3	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	69.504325	69.53250799999999	FAM155B	"Sporadic Up 
+hiPSC DEGs"	undefined
+chrX	111.76800999999999	112.082776	TRPC5	"Sporadic Up 
+hiPSC DEGs"	variable
+chrX	110.35881499999999	110.456334	RTL9	"Sporadic Up 
+hiPSC DEGs"	variable
+chrX	44.147870999999995	44.343672	EFHC2	"Sporadic Up 
+hiPSC DEGs"	variable
+chrX	107.522449	107.605251	FRMPD3	"Sporadic Up 
+hiPSC DEGs"	variable
+chrX	123.184152	123.490915	GRIA3	"Sporadic Up 
+hiPSC DEGs"	variable
+chrX	104.566198	105.76782899999999	IL1RAPL2	"Sporadic Up 
+hiPSC DEGs"	variable
+chrX	91.77926	92.62322999999999	PCDH11X	"Sporadic Up 
+hiPSC DEGs"	variable
+chrX	47.582406999999996	47.586788999999996	TIMP1	"Sporadic Up 
+hiPSC DEGs"	variable
+chrX	19.360055	19.515261	MAP3K15	"Sporadic Up 
+hiPSC DEGs"	variable
+chrX	38.149335	38.220924	SRPX	"Sporadic Up 
+hiPSC DEGs"	variable
+chrX	131.68877799999999	131.830862	FIRRE	"Sporadic Up 
+hiPSC DEGs"	variable
+chrX	0.0	160.0		"Sporadic Up 
+hiPSC DEGs"	
+chrX	160.0	160.0		"Sporadic Up 
+hiPSC DEGs"	
+chrX	47.217859	47.229997	CDK16	"Consistent Up 
+hiPSC DEGs"	escape
+chrX	154.778683	154.82100699999998	MPP1	"Consistent Up 
+hiPSC DEGs"	escape
+chrX	93.670929	93.67357799999999	NAP1L3	"Consistent Up 
+hiPSC DEGs"	escape
+chrX	40.62692	40.647560999999996	CXorf38	"Consistent Up 
+hiPSC DEGs"	escape
+chrX	16.587998	16.712936	CTPS2	"Consistent Up 
+hiPSC DEGs"	escape
+chrX	110.67385499999999	110.795819	CHRDL1	"Consistent Up 
+hiPSC DEGs"	escape
+chrX	2.828821	2.8828199999999997	GYG2	"Consistent Up 
+hiPSC DEGs"	escape
+chrX	2.691186	2.7413089999999998	CD99	"Consistent Up 
+hiPSC DEGs"	escape
+chrX	16.786431	16.844519	TXLNG	"Consistent Up 
+hiPSC DEGs"	escape
+chrX	2.93452	2.9684749999999998	ARSL	"Consistent Up 
+hiPSC DEGs"	escape
+chrX	16.719611	16.76534	SYAP1	"Consistent Up 
+hiPSC DEGs"	escape
+chrX	49.171897	49.175235	PLP2	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	107.628427	107.65199299999999	PRPS1	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	16.839282	16.870362	RBBP7	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	16.946657	17.153271999999998	REPS2	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	15.384798	15.493564	PIR	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	24.465269	24.550466	PDK3	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	24.558086	24.672677	PCYT1B	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	110.00263	110.182734	TMEM164	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	24.693872	24.996986	POLA1	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	23.983719	24.027186	KLHL15	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	47.232865	47.248328	USP11	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	111.245098	111.270483	CAPN6	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	112.774502	112.84088899999999	AMOT	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	40.579370999999995	40.606848	ATP6AP2	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	133.30010199999998	133.415489	GPC4	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	96.68466199999999	97.604997	DIAPH2	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	153.494979	153.509546	BGN	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	112.630647	112.680054	LHFPL1	"Consistent Up 
+hiPSC DEGs"	inactive
+chrX	114.040387	114.05577799999999	AC236668.1	"Consistent Up 
+hiPSC DEGs"	undefined
+chrX	111.51166099999999	111.522399	SERTM2	"Consistent Up 
+hiPSC DEGs"	undefined
+chrX	16.167479999999998	16.171464	MAGEB17	"Consistent Up 
+hiPSC DEGs"	undefined
+chrX	115.84096299999999	115.84304999999999	DANT1	"Consistent Up 
+hiPSC DEGs"	undefined
+chrX	91.43459399999999	91.43858399999999	PABPC5	"Consistent Up 
+hiPSC DEGs"	undefined
+chrX	13.378734	13.37934	GPX1P1	"Consistent Up 
+hiPSC DEGs"	undefined
+chrX	2.609347	2.657229	CD99P1	"Consistent Up 
+hiPSC DEGs"	undefined
+chrX	16.15294	16.170869	AC078993.1	"Consistent Up 
+hiPSC DEGs"	undefined
+chrX	17.375199	17.735993999999998	NHS	"Consistent Up 
+hiPSC DEGs"	variable
+chrX	9.786427999999999	9.949442999999999	SHROOM2	"Consistent Up 
+hiPSC DEGs"	variable
+chrX	111.66581	111.760649	ALG13	"Consistent Up 
+hiPSC DEGs"	variable
+chrX	16.123564	16.153518	GRPR	"Consistent Up 
+hiPSC DEGs"	variable
+chrX	0.0	160.0		"Consistent Up 
+hiPSC DEGs"	
+chrX	160.0	160.0		"Consistent Up 
+hiPSC DEGs"	
+chrX	155.27621	155.334657	CLIC2	"Sporadic Down 
+hiPSC DEGs"	escape
+chrX	18.989306	19.122636999999997	ADGRG2	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	123.60055999999999	123.73305599999999	THOC2	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	119.786503	119.79163	RPL39	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	48.574448	48.581162	RBM3	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	106.16830399999999	106.208956	PWWP3B	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	71.533103	71.575892	OGT	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	119.871831	119.876662	NDUFA1	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	102.51368099999999	102.516739	TMSB15A	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	78.747708	78.757094	LPAR4	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	71.301749	71.305371	ITGB1BP2	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	84.31787299999999	84.502479	HDX	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	145.817828	145.829856	SLITRK2	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	72.329515	72.573101	HDAC8	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	100.627107	100.639991	TSPAN6	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	73.940434	74.29357399999999	FTX	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	73.563199	73.687102	CHIC1	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	40.049814	40.177329	BCOR	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	77.504879	77.786233	ATRX	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	102.59951099999999	102.714671	ARMCX5-GPRASP2	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	131.058345	131.08988499999998	ARHGAP36	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	48.801376	48.824982	HDAC6	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	153.79351499999999	153.798499	SSR4	"Sporadic Down 
+hiPSC DEGs"	inactive
+chrX	100.584935	100.599885	TNMD	"Sporadic Down 
+hiPSC DEGs"	undefined
+chrX	75.74083	75.746911	TTC3P1	"Sporadic Down 
+hiPSC DEGs"	undefined
+chrX	150.231074	150.23289599999998	XRCC6P2	"Sporadic Down 
+hiPSC DEGs"	undefined
+chrX	149.596555	149.631912	TMEM185A	"Sporadic Down 
+hiPSC DEGs"	undefined
+chrX	30.230435	30.237492	MAGEB3	"Sporadic Down 
+hiPSC DEGs"	undefined
+chrX	70.962963	70.963293	RPS23P8	"Sporadic Down 
+hiPSC DEGs"	undefined
+chrX	57.222705	57.224790999999996	Z83745.1	"Sporadic Down 
+hiPSC DEGs"	undefined
+chrX	70.42303	70.43339	GDPD2	"Sporadic Down 
+hiPSC DEGs"	undefined
+chrX	80.228488	80.335364	CHMP1B2P	"Sporadic Down 
+hiPSC DEGs"	undefined
+chrX	51.617019	51.618911999999995	CENPVL3	"Sporadic Down 
+hiPSC DEGs"	undefined
+chrX	40.934981	40.935863999999995	RPS2P55	"Sporadic Down 
+hiPSC DEGs"	undefined
+chrX	9.725344999999999	9.786297	GPR143	"Sporadic Down 
+hiPSC DEGs"	variable
+chrX	85.24399	85.27336199999999	ZNF711	"Sporadic Down 
+hiPSC DEGs"	variable
+chrX	0.0	160.0		"Sporadic Down 
+hiPSC DEGs"	
+chrX	160.0	160.0		"Sporadic Down 
+hiPSC DEGs"	
+chrX	73.792204	73.829231	TSIX	"Consistent Down 
+hiPSC DEGs"	inactive
+chrX	73.82064799999999	73.852723	XIST	"Consistent Down 
+hiPSC DEGs"	inactive
+chrX	81.113698	81.20191299999999	HMGN5	"Consistent Down 
+hiPSC DEGs"	variable
+chrX	0.0	160.0		"Consistent Down 
+hiPSC DEGs"	
+chrX	160.0	160.0		"Consistent Down 
+hiPSC DEGs"	
+chrX	53.374148	53.422728	SMC1A	"Unchanged 
+hiPSC DEGs"	escape
+chrX	100.67448999999999	100.732123	SYTL4	"Unchanged 
+hiPSC DEGs"	escape
+chrX	1.46258	1.537185	P2RY8	"Unchanged 
+hiPSC DEGs"	escape
+chrX	1.268799	1.310381	CSF2RA	"Unchanged 
+hiPSC DEGs"	escape
+chrX	0.624343	0.659411	SHOX	"Unchanged 
+hiPSC DEGs"	escape
+chrX	77.899439	77.907376	COX7B	"Unchanged 
+hiPSC DEGs"	escape
+chrX	5.840636	6.228867	NLGN4X	"Unchanged 
+hiPSC DEGs"	escape
+chrX	44.873187	45.112778999999996	KDM6A	"Unchanged 
+hiPSC DEGs"	escape
+chrX	6.667864	7.148158	PUDP	"Unchanged 
+hiPSC DEGs"	escape
+chrX	77.910738	78.129295	PGK1	"Unchanged 
+hiPSC DEGs"	escape
+chrX	7.1472359999999995	7.804358	STS	"Unchanged 
+hiPSC DEGs"	escape
+chrX	73.944181	74.070408	JPX	"Unchanged 
+hiPSC DEGs"	escape
+chrX	79.360383	79.367667	ITM2A	"Unchanged 
+hiPSC DEGs"	escape
+chrX	35.919733	36.385317	CFAP47	"Unchanged 
+hiPSC DEGs"	escape
+chrX	1.3366149999999999	1.3826889999999998	IL3RA	"Unchanged 
+hiPSC DEGs"	escape
+chrX	1.386151	1.392113	SLC25A6	"Unchanged 
+hiPSC DEGs"	escape
+chrX	100.291643	100.41027299999999	PCDH19	"Unchanged 
+hiPSC DEGs"	escape
+chrX	8.528872999999999	8.732137	ANOS1	"Unchanged 
+hiPSC DEGs"	escape
+chrX	15.825804999999999	15.854930999999999	AP1S2	"Unchanged 
+hiPSC DEGs"	escape
+chrX	114.584077	114.910061	HTR2C	"Unchanged 
+hiPSC DEGs"	escape
+chrX	41.514933	41.923553999999996	CASK	"Unchanged 
+hiPSC DEGs"	escape
+chrX	153.907366	153.934999	ARHGAP4	"Unchanged 
+hiPSC DEGs"	escape
+chrX	15.688829	15.788411	CA5B	"Unchanged 
+hiPSC DEGs"	escape
+chrX	132.626015	132.96139499999998	HS6ST2	"Unchanged 
+hiPSC DEGs"	escape
+chrX	30.304205	30.309389999999997	NR0B1	"Unchanged 
+hiPSC DEGs"	escape
+chrX	101.349446	101.390796	BTK	"Unchanged 
+hiPSC DEGs"	escape
+chrX	1.6150579999999999	1.643081	ASMT	"Unchanged 
+hiPSC DEGs"	escape
+chrX	1.403138	1.453762	ASMTL	"Unchanged 
+hiPSC DEGs"	escape
+chrX	13.770938	13.938638	GPM6B	"Unchanged 
+hiPSC DEGs"	escape
+chrX	53.422689	53.43112	RIBC1	"Unchanged 
+hiPSC DEGs"	escape
+chrX	1.396426	1.399402	LINC00106	"Unchanged 
+hiPSC DEGs"	escape
+chrX	13.734744	13.769357	OFD1	"Unchanged 
+hiPSC DEGs"	escape
+chrX	0.30452799999999997	0.31881899999999996	GTPBP6	"Unchanged 
+hiPSC DEGs"	escape
+chrX	153.764195	153.779346	PLXNB3	"Unchanged 
+hiPSC DEGs"	escape
+chrX	24.149172	24.216255	ZFX	"Unchanged 
+hiPSC DEGs"	escape
+chrX	45.74521	45.770274	MIR222HG	"Unchanged 
+hiPSC DEGs"	escape
+chrX	2.219505	2.502805	DHRSX	"Unchanged 
+hiPSC DEGs"	escape
+chrX	43.654906	43.746824	MAOA	"Unchanged 
+hiPSC DEGs"	escape
+chrX	101.390823	101.396155	RPL36A	"Unchanged 
+hiPSC DEGs"	escape
+chrX	101.26825199999999	101.29305699999999	TAF7L	"Unchanged 
+hiPSC DEGs"	escape
+chrX	20.124523999999997	20.141838	EIF1AX	"Unchanged 
+hiPSC DEGs"	escape
+chrX	0.333932	0.386955	PPP2R3B	"Unchanged 
+hiPSC DEGs"	escape
+chrX	24.054945	24.078809999999997	EIF2S3	"Unchanged 
+hiPSC DEGs"	escape
+chrX	15.790471	15.82326	ZRSR2	"Unchanged 
+hiPSC DEGs"	escape
+chrX	72.255678	72.277248	RPS4X	"Unchanged 
+hiPSC DEGs"	escape
+chrX	41.333346999999996	41.364472	DDX3X	"Unchanged 
+hiPSC DEGs"	escape
+chrX	154.021572	154.137103	MECP2	"Unchanged 
+hiPSC DEGs"	escape
+chrX	0.276321	0.30335599999999996	PLCXD1	"Unchanged 
+hiPSC DEGs"	escape
+chrX	154.83578699999998	155.02694	F8	"Unchanged 
+hiPSC DEGs"	escape
+chrX	63.347227	63.351332	SPIN4	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	154.411523	154.421726	TAZ	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	30.653357999999997	30.731461999999997	GK	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	56.818296999999994	56.995827	SPIN3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	101.393272	101.408012	GLA	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	48.539713	48.562608999999995	TBC1D25	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	154.379272	154.381523	EMD	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	71.254813	71.30152199999999	NONO	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	106.802672	106.87615	TBC1D8B	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	121.047609	121.050094	GLUD2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	154.436912	154.443467	GDI1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	54.530181999999996	54.621520999999994	GNL3L	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	49.113406	49.123734999999996	GPKOW	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	57.134529	57.137625	SPIN2A	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	102.651091	102.659083	GPRASP1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	102.712175	102.717733	GPRASP2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	13.5696	13.633574999999999	EGFL6	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	48.973718999999996	49.002264	GRIPAP1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	74.732855	74.925472	NEXMIF	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	149.54035399999998	149.55051	EOLA1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	119.920671	119.94375099999999	NKAP	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	71.57840999999999	71.61358299999999	GCNA	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	38.006552	38.128819	SYTL5	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	71.366263	71.53237399999999	TAF1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	54.445453	54.496233999999994	FGD1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	49.187813999999996	49.200199	SYP	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	47.5719	47.619856999999996	SYN1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	147.911918	147.951125	FMR1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	48.695553	48.709016	SUV39H1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	134.796394	134.85483499999998	FAM122C	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	54.068323	54.183281	FAM120C	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	48.508961	48.520813999999994	PORCN	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	51.743441	51.746232	GSPT2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	11.822422	12.724523	FRMPD4	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	57.286705	57.489193	FAAH2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	119.588336	119.606443	NKRF	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	48.47602	48.486363999999995	FTSJ1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	155.025979	155.060304	FUNDC2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	123.960211	124.422664	STAG2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	151.953123	151.97468	GABRE	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	72.204656	72.239027	ERCC6L	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	47.078354	47.093314	RGN	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	154.44414	154.450654	FAM50A	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	78.129747	78.13965	TAF9B	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	155.612571	155.782459	SPRY3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	149.92952599999998	149.93869999999998	EOLA2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	49.250437	49.270477	FOXP3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	75.051047	75.15673199999999	ABCB7	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	71.056331	71.073426	SNX12	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	19.533976	19.8876	SH3KBP1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	154.477768	154.479257	LAGE3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	120.426147	120.469365	LAMP2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	81.202101	81.298547	SH3BGRL	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	65.438548	65.53481	LAS1L	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	103.675495	103.688158	MORF4L2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	135.960587	135.974029	MMGT1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	18.239311999999998	18.354688	SCML2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	17.737448	17.754988	SCML1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	85.092283	85.243911	SATL1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	135.032354	135.033546	RTL8C	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	135.050931	135.05219599999998	RTL8A	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	55.717748	55.758773999999995	RRAGB	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	63.222992	63.561094999999995	LINC01278	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	46.837042	46.882357999999996	RP2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	47.48357	47.484823	LINC01560	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	154.389954	154.409168	RPL10	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	84.058345	84.188199	RPS6KA6	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	118.97461299999999	119.018355	LONRF3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	10.445309	10.833654	MID1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	51.803005999999996	51.902353999999995	MAGED1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	54.807598	54.816015	MAGED2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	71.118555	71.142454	MED12	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	120.594009	120.62115899999999	MCTS1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	77.825746	77.89559299999999	MAGT1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	150.361421	150.514178	MAMLD1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	139.58176899999998	139.708227	MCF2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	20.006712	20.116906999999998	MAP7D2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	136.21321899999998	136.256482	MAP7D3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	46.447291	46.497422	KRBOX4	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	87.51740799999999	87.67004999999999	KLHL4	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	154.487305	154.49069	SLC10A3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	117.89781199999999	118.11734	KLHL13	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	64.26808	64.39545199999999	MTMR8	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	153.447665	153.49551599999998	HAUS7	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	11.1113	11.123085999999999	HCCS	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	153.947556	153.97181799999998	HCFC1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	66.162548	66.268867	HEPH	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	150.980508	150.990771	HMGB3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	150.69297	150.765108	MTMR1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	134.99098999999998	134.992473	SMIM10	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	101.408221	101.41413299999999	HNRNPH2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	53.431256999999995	53.434369999999994	HSD17B10	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	150.56861999999998	150.67314299999998	MTM1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	46.59925	46.759118	SLC9A7	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	135.97384	136.047269	SLC9A6	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	74.58297499999999	74.61462399999999	RLIM	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	73.21229799999999	73.214851	NAP1L2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	136.497078	136.512346	HTATSF1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	149.47698699999998	149.521096	IDS	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	70.13344599999999	70.166324	IGBP1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	153.687925	153.696588	SLC6A8	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	48.458535999999995	48.470259999999996	SLC38A5	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	155.064033	155.14793699999998	MTCP1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	14.87342	14.922327	MOSPD2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	135.520658	135.58250999999998	INTS6L	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	119.46842099999999	119.471396	SLC25A5	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	154.010505	154.019902	IRAK1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	53.094144	53.170913999999996	KANTR	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	119.399335	119.454478	SLC25A43	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	74.421492	74.533917	SLC16A2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	70.290103	70.420886	KIF4A	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	56.232355	56.291531	KLF8	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	53.532095	53.686727999999995	HUWE1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	68.82902	68.84215999999999	EFNB1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	101.219768	101.264502	DRP2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	152.830966	152.869729	NSDHL	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	48.590041	48.608869	WDR13	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	53.936675	54.048958	PHF8	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	119.236244	119.24446599999999	PGRMC1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	151.396514	151.40936399999998	VMA21	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	15.345595	15.384412999999999	VEGFD	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	130.17196099999998	130.18487	RAB33A	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	54.932959999999994	54.998534	PFKFB1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	155.197006	155.23984099999998	VBP1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	155.88134399999998	155.943769	VAMP7	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	153.802165	153.830565	PDZD4	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	47.651795	47.65918	UXT	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	129.90612	129.92976099999998	UTP14A	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	49.876723	49.879241	USP27X-AS1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	155.258234	155.264491	RAB39B	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	75.156387	75.304885	UPRT	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	119.80530999999999	119.852998	UPF3B	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	19.343892	19.361718	PDHA1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	38.561541	38.688919999999996	TSPAN7	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	136.848003	136.880764	RBMX	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	53.082366	53.088539999999995	TSPYL2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	101.622796	101.627843	ARMCX3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	101.65527999999999	101.65984999999999	ARMCX2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	101.550546	101.5547	ARMCX1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	49.074431999999995	49.101169999999996	WDR45	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	63.634966	63.809273999999995	ARHGEF9	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	67.54402	67.73061899999999	AR	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	85.00387599999999	85.093316	APOOL	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	54.440402999999996	54.448032	TSR2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	64.185116	64.205708	AMER1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	55.009054	55.030977	ALAS2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	119.574535	119.591083	UBE2A	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	47.561204	47.571908	ARAF	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	101.615117	101.61800099999999	ARMCX6	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	54.192822	54.358641999999996	WNK3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	123.85972299999999	123.91397599999999	XIAP	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	153.724855	153.744755	ABCD1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	47.836901	48.002561	ZNF81	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	46.545437	46.548840999999996	ZNF674-AS1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	46.497726	46.545457	ZNF674	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	47.983354999999996	48.071658	ZNF630	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	135.344795	135.36341299999998	ZNF449	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	47.445878	47.482946	ZNF41	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	153.334146	153.36011	ZNF275	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	152.91444099999998	152.97348	ZNF185	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	47.974849999999996	48.003989	ZNF182	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	71.239623	71.255146	ZMYM3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	101.88228699999999	101.932079	ZMAT1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	48.579772999999996	48.581157	AC115618.2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	153.056408	153.060467	PNMA3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	49.269791999999995	49.301460999999996	PPP1R3F	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	129.80328699999998	129.843909	ZDHHC9	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	75.368426	75.523502	ZDHHC15	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	129.738948	129.769536	XPNPEP2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	68.498561	68.53728199999999	YIPF6	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	72.578813	72.714319	PHKA1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	18.892297	18.984113999999998	PHKA2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	12.791354	12.824221999999999	PRPS2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	15.319450999999999	15.335554	PIGA	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	10.015253	10.144473999999999	WWC3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	72.18135199999999	72.302926	PIN4	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	23.701054	23.766475	ACOT9	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	49.07116	49.074002	PRAF2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	154.45828	154.477779	PLXNA3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	120.250751	120.258398	ZBTB33	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	65.366637	65.507887	ZC3H12B	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	64.915801	65.034713	ZC4H2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	109.62424299999999	109.733403	ACSL4	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	107.71321999999999	107.77734199999999	TSC22D3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	101.418286	101.533459	ARMCX4	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	64.224193	64.23060699999999	ASB12	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	152.826993	152.830757	CETN2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	54.920460999999996	54.931430999999996	TRO	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	46.573764	46.598496	CHST7	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	49.922595	50.099235	CLCN5	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	101.34566	101.348742	TIMM8A	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	48.893446	48.898143	TIMM17B	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	49.028724999999994	49.043409999999994	TFE3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	100.820358	100.84151999999999	CSTF2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	120.50591899999999	120.604074	CUL4B	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	119.53814799999999	119.56540899999999	CXorf56	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	37.780058	37.813461	CYBB	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	48.922022999999996	48.958386	OTUD5	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	67.949348	68.433913	OPHN1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	47.145219999999995	47.186813	RBM10	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	101.09821699999999	101.163681	CENPI	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	109.53577999999999	109.544698	NXT2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	124.375902	124.96381699999999	TENM1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	107.064419	107.11882299999999	RBM41	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	51.49001	51.496592	NUDT11	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	154.762741	154.77768899999998	DKC1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	70.444834	70.50549	DLG3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	51.332229999999996	51.337525	NUDT10	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	102.125678	102.14042599999999	TCEAL2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	154.40123499999999	154.41211199999998	DNASE1L1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	132.369316	132.489968	MBNL3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	153.642491	153.65132599999998	DUSP9	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	37.836756	37.847570999999995	DYNLT3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	48.521798	48.528715999999996	EBP	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	69.616066	70.039472	EDA	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	66.595636	66.639298	EDA2R	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	111.29377799999999	111.41242899999999	DCX	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	18.425582	18.653629	CDKL5	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	47.623171	47.630305	CFP	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	21.839616	21.885423	MBTPS2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	103.21510699999999	103.21724599999999	BEX4	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	129.98110599999998	130.05807099999998	BCORL1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	19.912858999999997	19.970298	BCLAF3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	110.944284	111.227361	PAK3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	102.720687	102.75354	BHLHB9	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	150.766335	150.89881599999998	CD99L2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	155.071419	155.123077	BRCC3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	80.669502	80.809877	BRWD3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	155.48900999999998	155.719098	TMLHE	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	34.627074	34.657285	TMEM47	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	153.700491	153.72456499999998	BCAP31	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	103.309345	103.31100699999999	BEX2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	76.173039	76.178314	PBDC1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	101.07887799999999	101.096367	TMEM35A	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	120.62567299999999	120.630054	C1GALT1C1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	103.499129	103.519489	RAB40A	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	49.205062	49.233371	CACNA1F	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	154.428632	154.43651599999998	ATP6AP1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	120.25864899999999	120.311556	TMEM255A	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	153.517675	153.58293899999998	ATP2B3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	49.235468999999995	49.250519999999995	CCDC22	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	108.091667	108.154671	ATG4A	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	50.202712	50.351914	CCNB3	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	103.82232599999999	103.832257	RAB9B	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	101.009345	101.052116	TRMT2B	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	153.444719	153.470587	TREX2	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	103.06264999999999	103.064171	BEX1	"Unchanged 
+hiPSC DEGs"	inactive
+chrX	119.942833	119.99280999999999	RHOXF1P3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	25.645720999999998	25.646327	RANBP1P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	83.50828899999999	83.51212699999999	POU3F4	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	119.978712	120.025138	RHOXF1P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	119.870474	119.87173299999999	RNF113A	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	65.956288	65.957196	RBMXP5	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	101.53748399999999	101.539276	PRKCIP1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	120.03623499999999	120.14685399999999	RHOXF1-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	74.202833	74.204595	RAB11FIP1P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	136.807222	136.807877	RANP4	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	151.694606	151.70592399999998	PRRG3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	44.029331	44.030921	RBM39P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	96.883907	96.88546699999999	RPA4	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	115.718941	115.719229	SUMO2P21	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	134.52270099999998	134.52299	RPL36AP54	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	8.464829	8.46651	VCX3B	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	6.533617	6.535118	VCX3A	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	7.842261	7.844143	VCX	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	47.658832	47.692326	UXT-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	56.737241	56.737576999999995	UQCRBP1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	14.244380999999999	14.244928	UBE2E4P	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	153.735625	153.766478	U52111.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	76.655497	76.656559	TRAPPC13P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	73.223123	73.223558	TOMM20P4	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	103.71090799999999	103.71403199999999	TMEM31	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	149.76889599999998	149.771368	TMEM185AP1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	65.40808299999999	65.408672	TLE1P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	129.04153499999998	129.043183	TJAP1P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	36.962195	36.963425	TFDP1P2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	125.32011899999999	125.32521399999999	TEX13C	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	80.92949899999999	80.930347	VDAC1P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	70.528939	70.908711	TEX11	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	49.632498999999996	49.633348999999995	VDAC1P2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	47.803295	47.804789	WASF4P	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	137.566126	137.577691	ZIC3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	24.146224	24.149653999999998	ZFX-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	153.418321	153.426481	ZFP92	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	118.82382299999999	118.826968	ZCCHC12	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	137.573751	137.98178	Z96074.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	102.94596999999999	102.952039	Z93943.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	74.209975	74.21365999999999	Z83843.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	130.44508399999998	130.524257	Z82195.2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	83.506022	83.509214	Z82170.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	103.59660699999999	103.59890399999999	Z73965.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	103.48646	103.51791899999999	Z69733.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	102.884413	102.90615799999999	Z68871.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	21.855985999999998	21.858739999999997	YY2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	41.675759	41.676494	YWHAZP10	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	156.020825	156.02571	WASH6P	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	108.044969	108.079184	VSIG1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	75.326771	75.32799899999999	TERF1P7	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	83.748824	83.749939	TERF1P4	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	80.335503	80.44531099999999	TENT5D	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	135.421943	135.428075	SMIM10L2A	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	143.62278899999998	143.636101	SLITRK4	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	70.925578	70.931125	SLC7A3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	103.92809799999999	103.929017	SLC25A53P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	119.46598499999999	119.469128	SLC25A5-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	68.78347099999999	68.785066	SERBP1P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	73.769247	73.770423	SEPHS1P4	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	44.309312999999996	44.310476	RRM2P3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	100.155884	100.156773	RPSAP8	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	44.741085999999996	44.741963999999996	RPSAP61	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	87.70334199999999	87.70420299999999	RPSAP15	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	74.409517	74.4101	RPS7P14	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	24.429572	24.42992	RPS26P58	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	133.67096999999998	133.67138599999998	RPS24P19	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	23.836741	23.837321	RPL9P7	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	135.09498399999998	135.098712	SMIM10L2B	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	135.059684	135.123952	SMIM10L2B-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	71.043213	71.04547	SOCS5P4	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	119.75858699999999	119.76020199999999	SOWAHD	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	110.52031099999999	110.523021	TDGF1P3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	103.252994	103.255192	TCEAL8	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	102.140475	102.14296999999999	TCEAL6	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	103.27369	103.27674999999999	TCEAL5	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	103.628703	103.63095299999999	TCEAL1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	80.014752	80.031774	TBX22	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	33.041394	33.041720999999995	TBCAP1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	92.676518	92.676954	RPL26P36	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	30.854319999999998	30.854706999999998	TAB3-AS2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	24.310861	24.314079	SUPT20HL2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	86.084715	86.086339	STIP1P3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	93.28773199999999	93.288759	ST13P18	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	62.779249	62.780325999999995	SSBL2P	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	63.349644999999995	63.352177999999995	SPIN4-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	57.11855	57.121548	SPIN2B	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	141.177283	141.649927	SPANXA2-OT1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	49.198965	49.202453999999996	SYP-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	153.317679	153.321767	PNMA6F	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	52.061825999999996	52.069247999999995	MAGED4B	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	153.072453	153.075019	PNMA6A	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	41.520035	41.522335999999996	CASK-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	15.674930999999999	15.703724	CA5BP1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	3.8199229999999997	3.823898	BX842570.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	36.957912	36.958138999999996	BX842568.3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	71.667541	71.67152399999999	BX276092.9	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	102.153707	102.155977	BEX5	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	1.401768	1.4140279999999998	ASMTL-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	25.003693	25.01642	ARX	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	2.904903	2.906081	ARSD-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	102.599167	102.604159	ARMCX5	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	101.622982	101.624164	ARMCX3-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	116.10691999999999	116.10843	API5P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	18.984289999999998	19.060329	AL732509.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	0.38697899999999996	0.40557899999999997	AL732314.6	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	136.84093	136.84779699999999	AL683813.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	39.837534999999995	39.848358	AL592164.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	33.726335999999996	34.346527	AL591501.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	111.61880699999999	111.61909399999999	AL589880.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	136.909368	137.022143	AL390879.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	122.242007	122.242616	AL357562.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	77.91073999999999	77.96489	AL356235.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	153.587924	153.600045	CCNQ	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	56.61839	56.624458	AL354793.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	73.447253	73.45524499999999	CDX4	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	9.967357	9.968352	CLDN34	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	52.926401	52.995472	FAM156A	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	154.886348	154.888061	F8A1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	48.826512	48.830138	ERAS	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	103.910304	103.911352	ELF2P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	153.07576799999998	153.076968	PNMA6B	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	92.11324499999999	92.11446099999999	EIF4A1P10	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	115.70281	115.70411999999999	EEF1GP5	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	24.788390999999997	24.789068999999998	EEF1B2P3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	120.21046	120.21267999999999	EEF1A1P30	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	107.351649	107.352843	DNAJA1P3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	70.452957	70.45599399999999	DLG3-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	97.431285	97.642589	DIAPH2-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	2.334294	2.33641	DHRSX-IT1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	50.365407999999995	50.470825	DGKK	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	130.49496399999998	130.496588	DENND10P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	126.16349799999999	126.16628899999999	DCAF12L2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	126.549382	126.552814	DCAF12L1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	115.694879	115.96912999999999	DANT2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	153.84125	153.841565	CYCSP45	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	23.908005	23.939508999999997	CXorf58	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	152.75392	152.760222	CSAG3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	154.424379	154.42847899999998	CH17-340M24.3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	23.075757	23.076767	FAM3C2P	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	73.948972	73.949558	AL353804.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	51.395958	51.465661	AL158055.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	52.925954999999995	52.929573999999995	AC234031.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	51.190597	51.396462	AC233976.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	53.432721	53.433032	AC233728.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	49.262865	49.270520999999995	AC232271.3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	49.279675999999995	49.281439999999996	AC232271.2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	49.273053	49.275768	AC232271.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	48.775642999999995	48.77697	AC231533.2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	48.698961999999995	48.737162999999995	AC231533.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	23.772990999999998	23.782956	AC131011.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	48.568013	48.57486	AC115618.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	15.702601	15.703242999999999	AC112497.2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	30.698206	30.721932	AC112496.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	15.561046	15.675607999999999	AC097625.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	40.009274999999995	40.012181999999996	AC092198.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	7.9284419999999995	8.374386	AC079142.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	10.847577	11.11122	AC073529.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	119.79196999999999	119.810949	AC005052.2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	119.693567	119.69605899999999	AC005052.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	11.6684	11.757717999999999	AC004554.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	22.259795999999998	23.293146	AC004470.2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	134.16890999999998	134.17408899999998	AC002407.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	101.627867	101.628523	AC234775.2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	70.03783899999999	70.03932499999999	AL158141.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	51.856967	51.858066	AC241520.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	48.071225	48.078720999999994	AC244636.3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	98.450687	98.892061	AL157778.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	70.427449	70.43535	AL139398.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	130.165953	130.16690499999999	AL139234.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	135.03727999999998	135.040355	AL136169.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	131.385452	131.407083	AL135784.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	123.959232	123.96134099999999	AL121601.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	103.404776	103.452754	AL117327.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	107.85736299999999	107.93623	AL109946.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	55.908122	56.209270999999994	AL050309.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	137.55619	137.56438699999998	AL035443.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	102.599656	102.659712	AL035427.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	129.86906299999998	129.957528	AL034405.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	57.121660999999996	57.127243	AL022157.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	125.20380399999999	125.20433799999999	AL008707.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	119.24934499999999	119.257667	AKAP17BP	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	153.599314	153.613937	AF274858.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	151.303383	151.397142	AF274853.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	38.779582999999995	38.800678	AF241728.2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	53.142831	53.143913	ACTG1P10	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	154.374594	154.376934	AC245140.3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	154.396877	154.39881599999998	AC245140.2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	149.477103	149.54092599999998	AC244197.3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	151.71603399999998	151.723194	FATE1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	111.619676	111.621489	EIF4BP7	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	46.256758	46.32768	LINC01186	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	49.162563	49.168482999999995	MAGIX	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	57.905429	57.910458	ZXDA	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	52.184822	52.192268	MAGED4	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	30.243729	30.252039999999997	MAGEB1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	151.912508	151.92516999999998	MAGEA4	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	41.275738	41.276778	LINC02601	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	45.847041	45.851541	LINC02595	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	46.887415999999995	46.899702999999995	LINC01545	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	73.52427399999999	73.563085	MAP2K4P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	17.970195999999998	18.104644	LINC01456	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	123.603138	123.60393099999999	FERP1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	149.938612	150.22458	LINC00894	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	149.52759	149.540959	LINC00893	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	71.697195	71.70645499999999	LINC00891	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	0.32098899999999997	0.321851	LINC00685	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	140.70956099999998	140.793215	LINC00632	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	102.76915699999999	102.88540599999999	LINC00630	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	76.33484	76.33584499999999	LDHBP2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	118.83953799999999	118.919669	LINC01285	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	38.801567	38.803883	MID1IP1-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	76.656865	77.014532	MIR325HG	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	40.834483999999996	40.836005	MKRN4P	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	131.803311	131.803741	PNKDP1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	115.518181	115.562731	PLS3-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	43.176992999999996	43.226597999999996	PINCR	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	18.890295	18.894973999999998	PHKA2-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	68.07051899999999	68.071767	PGK1P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	77.96794799999999	77.969638	PGAM4	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	46.646592999999996	46.64733	PGAM1P7	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	70.286594	70.290514	PDZD11	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	94.636662	94.63956999999999	PAICSP7	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	49.829259	49.834264	PAGE4	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	73.002938	73.006106	PABPC1L2B	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	73.077275	73.079512	PABPC1L2A	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	41.447342	41.47571	NYX	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	47.512601	47.513483	NUS1P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	14.834475	14.835319	NPM1P9	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	107.974077	107.985008	NLRP3P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	120.12095199999999	120.245267	NKAPP1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	73.126036	73.12808	NAP1L6P	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	57.392644999999995	57.395409	MTHFD1P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	153.880671	153.88899	LCA10	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	64.30504599999999	64.306733	KPNA4P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	57.592009999999995	57.597477	ZXDB	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	109.37290499999999	109.482086	GUCY2F	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	41.472263	41.472653	GEMIN7P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	104.062541	104.063037	H2BW3P	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	104.039948	104.04245399999999	H2BW2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	147.90943	147.91181699999999	FMR1-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	147.94693999999998	147.94758299999998	FMR1-IT1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	104.011146	104.01368699999999	H2BW1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	21.654688999999998	21.65833	KLHL34	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	151.17519099999998	151.17783599999999	GPR50-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	148.052232	148.05274599999998	FTH1P8	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	30.630297	30.630824999999998	FTLP2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	151.176583	151.181465	GPR50	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	101.77896799999999	101.78053799999999	GK4P	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	152.637894	152.657542	GABRQ	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	39.787130999999995	39.788136	GAPDHP1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	30.699997	30.724173999999998	GK-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	123.514472	123.514872	H3P47	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	154.817098	154.817401	HMGN1P37	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	46.439707999999996	46.440714	GAPDHP65	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	100.88763499999999	100.88859	HNRNPA1P27	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	15.785715	15.787588999999999	INE2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	77.44738799999999	77.457278	FGF16	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	135.520082	135.52067399999999	INTS6L-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	95.973327	95.97431499999999	KAT7P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	154.54119799999998	154.565046	IKBKG	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	47.20492	47.205864999999996	INE1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	70.148581	70.149654	IGBP1-AS2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	151.18238499999998	151.182855	KC877982.1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	114.77482699999999	114.776775	HSPA8P7	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	121.203181	121.20501399999999	HSPA8P1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	149.929572	149.931287	HSFX4	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	140.032343	140.03348	HNRNPA3P3	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	49.233954999999995	49.234500999999995	HSPB1P2	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	138.71145099999998	138.71661699999999	FGF13-AS1	"Unchanged 
+hiPSC DEGs"	undefined
+chrX	152.988823	152.994116	PNMA5	"Unchanged 
+hiPSC DEGs"	variable
+chrX	152.166233	152.451315	GABRA3	"Unchanged 
+hiPSC DEGs"	variable
+chrX	23.334847999999997	23.404374	PTCHD1	"Unchanged 
+hiPSC DEGs"	variable
+chrX	71.09585	71.103532	FOXO4	"Unchanged 
+hiPSC DEGs"	variable
+chrX	153.66973199999998	153.68901	PNCK	"Unchanged 
+hiPSC DEGs"	variable
+chrX	47.370577	47.414497999999995	ZNF157	"Unchanged 
+hiPSC DEGs"	variable
+chrX	22.032324	22.25131	PHEX	"Unchanged 
+hiPSC DEGs"	variable
+chrX	130.202706	130.268899	ZNF280C	"Unchanged 
+hiPSC DEGs"	variable
+chrX	48.890195999999996	48.903143	PQBP1	"Unchanged 
+hiPSC DEGs"	variable
+chrX	18.675908	18.827921	PPEF1	"Unchanged 
+hiPSC DEGs"	variable
+chrX	134.565837	134.764322	PLAC1	"Unchanged 
+hiPSC DEGs"	variable
+chrX	153.861513	153.88617299999999	L1CAM	"Unchanged 
+hiPSC DEGs"	variable
+chrX	107.123426	107.20643299999999	NUP62CL	"Unchanged 
+hiPSC DEGs"	variable
+chrX	37.571568	37.684463	LANCL3	"Unchanged 
+hiPSC DEGs"	variable
+chrX	28.587445	29.956718	IL1RAPL1	"Unchanged 
+hiPSC DEGs"	variable
+chrX	77.91065499999999	78.050395	ATP7A	"Unchanged 
+hiPSC DEGs"	variable
+chrX	153.90252999999998	153.907166	AVPR2	"Unchanged 
+hiPSC DEGs"	variable
+chrX	48.676595	48.691427	WAS	"Unchanged 
+hiPSC DEGs"	variable
+chrX	76.427709	76.431342	MAGEE1	"Unchanged 
+hiPSC DEGs"	variable
+chrX	21.372799999999998	21.654695	CNKSR2	"Unchanged 
+hiPSC DEGs"	variable
+chrX	107.82575399999999	107.931637	MID2	"Unchanged 
+hiPSC DEGs"	variable
+chrX	37.68579	37.73213	XK	"Unchanged 
+hiPSC DEGs"	variable
+chrX	100.913444	100.92943299999999	XKRX	"Unchanged 
+hiPSC DEGs"	variable
+chrX	119.89583599999999	119.920716	AKAP14	"Unchanged 
+hiPSC DEGs"	variable
+chrX	148.50061599999998	149.000663	AFF2	"Unchanged 
+hiPSC DEGs"	variable
+chrX	86.14845	86.83260399999999	DACH2	"Unchanged 
+hiPSC DEGs"	variable
+chrX	153.929224	153.93508	NAA10	"Unchanged 
+hiPSC DEGs"	variable
+chrX	43.948775	43.973395	NDP	"Unchanged 
+hiPSC DEGs"	variable
+chrX	71.910817	72.16175	NHSL2	"Unchanged 
+hiPSC DEGs"	variable
+chrX	103.702209	103.72865499999999	GLRA4	"Unchanged 
+hiPSC DEGs"	variable
+chrX	103.356488	103.35846199999999	TCEAL9	"Unchanged 
+hiPSC DEGs"	variable
+chrX	138.614726	139.222777	FGF13	"Unchanged 
+hiPSC DEGs"	variable
+chrX	0.0	160.0		"Unchanged 
+hiPSC DEGs"	
+chrX	160.0	160.0		"Unchanged 
+hiPSC DEGs"	
