@@ -35,21 +35,100 @@ and the remaining genes as “in-between”. The final table is available as sup
 
 ### RNA AMPLICON-sequencing (RNA-AMP-seq) Analysis
 
-For the RNA-AMP-Seq analysis, a simillar procedure was applied. A VCF file containing the SNPs of interest was used, which allowed to run the phaser command for all bam files using "All" as the sample argument (--sample). 
+For the RNA-AMP-Seq analysis, we adapted the IMPLICON pipeline avaiable here: https://github.com/FelixKrueger/IMPLICON
+
+#### Overview of the pipeline
+
+Assuming the input reads are
+**R1:** `test_R1.fastq.gz` **R2:** `test_R2.fastq.gz`
+
+
+**STEP I: UMI-Handling**
+
+Read 2 has a 8nt UMI that has to be transfered to the read ID of both reads. Luckily, there is already a specialized command for this inside Trim Galore used in IMPLICON so we can just apply this:
 
 ```
-python phaser.py --vcf all_heterozygotic_VCF.vcf.gz --bam ASDC_S7_Aligned.sorted.bam, \
-ASD_S1_Aligned.sorted.bam, CtrlDC_S10_Aligned.sorted.bam, CtrlD_S6_Aligned.sorted.bam, \
-CtrlEC_S9_Aligned.sorted.bam, CtrlE_S5_Aligned.sorted.bam TCLABC_S8_Aligned.sorted.bam, \
-TCLAB_S4_Aligned.sorted.bam --paired_end 1 --mapq 255 --baseq 10 --sample All --chr_prefix chr \
---blacklist hg38_hla.bed --haplo_count_blacklist hg38_haplo_count_blacklist.bed --threads 4 --o phaser_output_all/All
+trim_galore --paired --implicon *fastq.gz
+```
+
+**Output Files:**
+```
+test_8bp_UMI_R1.fastq.gz
+test_8bp_UMI_R2.fastq.gz
+```
+
+**STEP II: Adapter-/quality trimming**
+
+Standard Trim Galore usage to identify and remove read-through adapter contamination as well as poor quality base calls.
+
+```
+trim_galore --paired *UMI*fastq.gz
+```
+
+**Output Files:**
+```
+test_8bp_UMI_R1_val_1.fq.gz
+test_8bp_UMI_R2_val_2.fq.gz
+```
+
+**STEP III: Genome Allignment**
+
+Genome allignment was achieved with STAR instead of using Bismark as in the IMPLICON pipeline since Bismark is directed to then procede with the methylation exctraction, which is not relevant for this analysis.
+
+```
+STAR --runThreadN 8  \
+        --genomeDir  /path/to/STAR/index \
+        --outFileNamePrefix test_ \
+        --outSAMtype BAM SortedByCoordinate \
+        --readFilesCommand zcat \
+        --readFilesIn test_8bp_UMI_R1_val_1.fq.gz test_8bp_UMI_R2_val_2.fq.gz \
+        --quantMode GeneCounts --sjdbGTFfile /path/to/annotation/file/gtf
+```
+**Output Files:**
+```
+test_Aligned.sortedByCoord.out.bam
+```
+
+**STEP IV: Deduplication using UMI-tools**
+
+Since Bismark was not used for the allignments, we will use UMI-tools instead for the deduplication. 
+
+First we need to index the allignemts. We can do so with SAM tools:
+```
+samtools index test_Aligned.sortedByCoord.out.bam
+```
+
+Then, we run UMI-tools:
+
+```
+umi_tools dedup --umi-separator=':' -I test_Aligned.sortedByCoord.out.bam --paired -S deduplicated_test_Aligned.sortedByCoord.out.bam
+```
+
+Finally, we need the .bam file to be indexed for the next step so we use sam tools again:
+```
+samtools index deduplicated_test_Aligned.sortedByCoord.out.bam
+```
+
+**Output Files:**
+```
+deduplicated_test_Aligned.sortedByCoord.out.bam
+```
+
+**STEP V: Allele Specific Counts**
+
+[phASER](https://github.com/secastel/phaser/tree/master) was used as above described for the ASE analysis. In this example we use the ASD cell line (before and after cardiac differentiation): 
+
+```
+python phaser.py --vcf ASD.vcf.gz --bam deduplicated_ASD_Aligned.sortedByCoord.out.bam, \
+deduplicated_ASDC_Aligned.sortedByCoord.out.bam --paired_end 1 --mapq 255 --baseq 10 --sample ASD --chr_prefix chr \
+--blacklist hg38_hla.bed --haplo_count_blacklist hg38_haplo_count_blacklist.bed --threads 4 --o phaser_output_all/ASD
 ```
 
 As before, we use the "phASER Gene AE" to produce gene-level haplotype expression quantifications.
 
 ```
-python phaser_gene_ae.py --haplotypic_counts phaser_output_all/All.haplotypic_counts.txt \
---features human.gencode.v37.annotation.bed --o phaser_output_all/All.gene_ae.txt
+python phaser_gene_ae.py --haplotypic_counts phaser_output_all/ASD.haplotypic_counts.txt \
+--features human.gencode.v37.annotation.bed --o phaser_output_all/ASD.gene_ae.txt
 ```
 
 For downstream analysis we discarded loci with a total read depth lower than 100 and the MAF was calculated as above stated.
