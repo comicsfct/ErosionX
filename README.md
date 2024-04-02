@@ -59,7 +59,7 @@ test_8bp_UMI_R2.fastq.gz
 
 **STEP II: Adapter-/quality trimming**
 
-Standard Trim Galore usage to identify and remove read-through adapter contamination as well as poor quality base calls.
+Standard Trim Galore usage to identify and remove read-through adapter contamination as well as poor quality base calls:
 
 ```
 trim_galore --paired *UMI*fastq.gz
