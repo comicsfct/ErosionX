@@ -32,3 +32,5 @@ To quantify the effect size of allelic imbalance in expression for each gene, we
 which is computed as the ratio of minor allele read counts (the least common allele) to the total read counts from both alleles.
 We defined genes with a MAF < 0.10 as fully monoallelic, genes with a MAF > 0.40 as fully biallelic, 
 and the remaining genes as “in-between”. The final table is available as supplementary data.
+
+### RNA AMPLICON-sequencing (RNA-AMP-seq) Analysis
