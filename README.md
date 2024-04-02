@@ -7,29 +7,28 @@ Following the generation of a VCF file from WES data and the alignment of RNA-se
 More specifically, to count allelic expression for isogenic control lines (F7cl15 and F7cl4 for instance), we use all bam files from those cell lines as input (--bam) and ‘F7’ as sample name (--sample) to isolate the variants of that cell line in the VCF file (--vcf).
 
 ```
-python phaser.py --vcf hiPSCs.vcf.gz \
-–bam F7cl4_1.Aligned.sortedByCoord.out.bam, F7cl4_2.Aligned.sortedByCoord.out.bam, F7cl4_3.Aligned.sortedByCoord.out.bam, \
-F7cl15_1.Aligned.sortedByCoord.out.bam,F7cl15_2.Aligned.sortedByCoord.out.bam,F7cl15_3.Aligned.sortedByCoord.out.bam \
---chr_prefix chr --hg38_hla.bed --haplo_count_blacklist blacklists/hg38_haplo_count_blacklist.bed --paired_end 1 --mapq 255 --baseq 10 \
---sample F7 --threads 8 --o phaser_out.F7
+python phaser.py --vcf hiPSCs.vcf.gz -–bam \
+F7cl4_1.Aligned.sorted.bam, F7cl4_2.Aligned.sorted.bam, F7cl4_3.Aligned.sorted.bam, \
+F7cl15_1.Aligned.sorted.bam,F7cl15_2.Aligned.sorted.bam,F7cl15_3.Aligned.sorted.bam \
+--chr_prefix chr --hg38_hla.bed --haplo_count_blacklist blacklists/hg38_haplo_count_blacklist.bed \ 
+--paired_end 1 --mapq 255 --baseq 10 --sample F7 --threads 8 --o phaser_out.F7
 ```
 
 Authors suggest excluding variants in HLA genes using the "--blacklist" argument because of the high mapping error rate in these 
 genes and exclude known problem sites from haplotypic counts using the "--haplo_count_blacklist" argument too. 
 Location of these files can be found in their github page.
 
-After running phASER we use the companion tool called “phASER Gene AE”, which takes the output files from phASER along with gene annotations
+Next, we use the companion tool called "phASER Gene AE”, which takes the output files from phASER along with gene annotations
  and produces gene-level haplotype expression quantifications. Takes an input BED format file containing the coordinates for genes 
- (features) where haplotypic counts are to be measured. If multiple input BAMs were used when running phASER, gene-level haplotypic counts will be generated for each input BAM independently.
+ where haplotypic counts are to be measured. Gene-level haplotypic counts are generated for each input BAM independently.
 
 ```
 python phaser_gene_ae.py --haplotypic_counts phaser_out.F7.haplotypic_counts.txt \
 –features human.gencode.v37.annotation.bed --o phaser_out.F7.gene_ae.txt
 ```
 
-For downstream analysis, we combined all output tables into a single one and discarded loci with a total read depth lower than 10.
-This limits the number of genes in our analysis but reduces the number of false positives due to biased RNA-seq read mapping 
-or other technical artifacts. We computed. The effect size of allelic imbalance in expression for each gene in each sample 
-was determined using the Minor Allele Frequency (MAF), calculated as the ratio of minor allele read counts (the least common allele)
- to the total read counts from both alleles. We defined genes with a MAF < 0.10 as fully monoallelic, genes with a MAF > 0.40 as fully
-  biallelic, and the remaining genes as “in-between”. Final table is available as supplementary data.
+For downstream analysis we discarded loci with a total read depth lower than 10.
+To quantify the effect size of allelic imbalance in expression for each gene, we computed the Minor Allele Frequency (MAF), 
+which is computed as the ratio of minor allele read counts (the least common allele) to the total read counts from both alleles.
+We defined genes with a MAF < 0.10 as fully monoallelic, genes with a MAF > 0.40 as fully biallelic, 
+and the remaining genes as “in-between”. The final table is available as supplementary data.
