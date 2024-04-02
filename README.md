@@ -14,7 +14,22 @@ F7cl15_1.Aligned.sortedByCoord.out.bam,F7cl15_2.Aligned.sortedByCoord.out.bam,F7
 --sample F7 --threads 8 --o phaser_out.F7
 ```
 
+Authors suggest excluding variants in HLA genes using the "--blacklist" argument because of the high mapping error rate in these 
+genes and exclude known problem sites from haplotypic counts using the "--haplo_count_blacklist" argument too. 
+Location of these files can be found in their github page.
 
+After running phASER we use the companion tool called “phASER Gene AE”, which takes the output files from phASER along with gene annotations
+ and produces gene-level haplotype expression quantifications. Takes an input BED format file containing the coordinates for genes 
+ (features) where haplotypic counts are to be measured. If multiple input BAMs were used when running phASER, gene-level haplotypic counts will be generated for each input BAM independently.
 
+```
+python phaser_gene_ae.py --haplotypic_counts phaser_out.F7.haplotypic_counts.txt \
+–features human.gencode.v37.annotation.bed --o phaser_out.F7.gene_ae.txt
+```
 
-
+For downstream analysis, we combined all output tables into a single one and discarded loci with a total read depth lower than 10.
+This limits the number of genes in our analysis but reduces the number of false positives due to biased RNA-seq read mapping 
+or other technical artifacts. We computed. The effect size of allelic imbalance in expression for each gene in each sample 
+was determined using the Minor Allele Frequency (MAF), calculated as the ratio of minor allele read counts (the least common allele)
+ to the total read counts from both alleles. We defined genes with a MAF < 0.10 as fully monoallelic, genes with a MAF > 0.40 as fully
+  biallelic, and the remaining genes as “in-between”. Final table is available as supplementary data.
