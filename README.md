@@ -34,3 +34,22 @@ We defined genes with a MAF < 0.10 as fully monoallelic, genes with a MAF > 0.40
 and the remaining genes as “in-between”. The final table is available as supplementary data.
 
 ### RNA AMPLICON-sequencing (RNA-AMP-seq) Analysis
+
+For the RNA-AMP-Seq analysis, a simillar procedure was applied. A VCF file containing the SNPs of interest was used, which allowed to run the phaser command for all bam files using "All" as the sample argument (--sample). 
+
+```
+python phaser.py --vcf all_heterozygotic_VCF.vcf.gz --bam ASDC_S7_Aligned.sorted.bam, \
+ASD_S1_Aligned.sorted.bam, CtrlDC_S10_Aligned.sorted.bam, CtrlD_S6_Aligned.sorted.bam, \
+CtrlEC_S9_Aligned.sorted.bam, CtrlE_S5_Aligned.sorted.bam TCLABC_S8_Aligned.sorted.bam, \
+TCLAB_S4_Aligned.sorted.bam --paired_end 1 --mapq 255 --baseq 10 --sample All --chr_prefix chr \
+--blacklist hg38_hla.bed --haplo_count_blacklist hg38_haplo_count_blacklist.bed --threads 4 --o phaser_output_all/All
+```
+
+As before, we use the "phASER Gene AE" to produce gene-level haplotype expression quantifications.
+
+```
+python phaser_gene_ae.py --haplotypic_counts phaser_output_all/All.haplotypic_counts.txt \
+--features human.gencode.v37.annotation.bed --o phaser_output_all/All.gene_ae.txt
+```
+
+For downstream analysis we discarded loci with a total read depth lower than 100 and the MAF was calculated as above stated.
