@@ -34,8 +34,8 @@ We defined genes with a MAF < 0.10 as fully monoallelic, genes with a MAF > 0.40
 and the remaining genes as “in-between”. The final table is available as supplementary data.
 
 ### RNA AMPLICON-sequencing (RNA-AMP-seq) Analysis
-
-For the RNA-AMP-Seq analysis, we adapted the IMPLICON pipeline avaiable here: https://github.com/FelixKrueger/IMPLICON
+For the RNA-AMP-Seq analysis (check the experimental procedure detailed in our manuscript), we have adapted our previous pipeline
+from the IMPLICON approach, available here: https://github.com/FelixKrueger/IMPLICON.
 
 #### Overview of the pipeline
 
@@ -44,11 +44,18 @@ Assuming the input reads are
 
 
 **STEP I: UMI-Handling**
-
-Read 2 has a 8nt UMI that has to be transfered to the read ID of both reads. Luckily, there is already a specialized command for this inside Trim Galore used in IMPLICON so we can just apply this:
+Read 2 begins with 8 bp random nucleotides, serving as unique molecular identifiers (UMIs) for amplification.
+To enable UMI-aware deduplication, Trim Galore is used with the --implicon option to transfer the UMI from Read 2 to both reads' 
+readID (check IMPLICON pipeline for me details)
 
 ```
 trim_galore --paired --implicon *fastq.gz
+```
+
+**Input Files:**
+```
+test_R1.fastq.gz
+test_R2.fastq.gz
 ```
 
 **Output Files:**
@@ -58,8 +65,7 @@ test_8bp_UMI_R2.fastq.gz
 ```
 
 **STEP II: Adapter-/quality trimming**
-
-Standard Trim Galore usage to identify and remove read-through adapter contamination as well as poor quality base calls:
+Next, a standard Trim Galore run identifies and removes read-through adapter contamination as well as poor quality base calls:
 
 ```
 trim_galore --paired *UMI*fastq.gz
@@ -72,8 +78,7 @@ test_8bp_UMI_R2_val_2.fq.gz
 ```
 
 **STEP III: Genome Allignment**
-
-Genome allignment was achieved with STAR instead of using Bismark as in the IMPLICON pipeline since Bismark is directed to then procede with the methylation exctraction, which is not relevant for this analysis.
+Genome alignment was conducted using STAR instead of Bismark, which is designed for methylation extraction (IMPLICON pipeline)
 
 ```
 STAR --runThreadN 8  \
@@ -83,6 +88,7 @@ STAR --runThreadN 8  \
         --readFilesCommand zcat \
         --readFilesIn test_8bp_UMI_R1_val_1.fq.gz test_8bp_UMI_R2_val_2.fq.gz \
         --quantMode GeneCounts --sjdbGTFfile /path/to/annotation/file/gtf
+		
 ```
 **Output Files:**
 ```
@@ -90,23 +96,17 @@ test_Aligned.sortedByCoord.out.bam
 ```
 
 **STEP IV: Deduplication using UMI-tools**
-
-Since Bismark was not used for the allignments, we will use UMI-tools instead for the deduplication. 
+In this step, paired-end read alignments are deduplicated based on chromosome, start position, end position, alignment orientation,
+and UMI from the read header (see Step I). For this, we used UMI-tools: https://umi-tools.readthedocs.io 
 
 First we need to index the allignemts. We can do so with SAM tools:
+
 ```
+# index aligned files with samtools
 samtools index test_Aligned.sortedByCoord.out.bam
-```
 
-Then, we run UMI-tools:
-
-```
+# then run UMI-tools
 umi_tools dedup --umi-separator=':' -I test_Aligned.sortedByCoord.out.bam --paired -S deduplicated_test_Aligned.sortedByCoord.out.bam
-```
-
-Finally, we need the .bam file to be indexed for the next step so we use sam tools again:
-```
-samtools index deduplicated_test_Aligned.sortedByCoord.out.bam
 ```
 
 **Output Files:**
@@ -115,8 +115,8 @@ deduplicated_test_Aligned.sortedByCoord.out.bam
 ```
 
 **STEP V: Allele Specific Counts**
-
-[phASER](https://github.com/secastel/phaser/tree/master) was used as above described for the ASE analysis. In this example we use the ASD cell line (before and after cardiac differentiation): 
+Here, we used [phASER](https://github.com/secastel/phaser/tree/master) as described above (ASE analysis).
+In this example, we used our samples from the ASD cell line, before and after cardiac differentiation: 
 
 ```
 python phaser.py --vcf ASD.vcf.gz --bam deduplicated_ASD_Aligned.sortedByCoord.out.bam, \
@@ -124,11 +124,11 @@ deduplicated_ASDC_Aligned.sortedByCoord.out.bam --paired_end 1 --mapq 255 --base
 --blacklist hg38_hla.bed --haplo_count_blacklist hg38_haplo_count_blacklist.bed --threads 4 --o phaser_output_all/ASD
 ```
 
-As before, we use the "phASER Gene AE" to produce gene-level haplotype expression quantifications.
+As before, we ran the "phASER Gene AE" script to produce gene-level haplotype expression quantifications.
 
 ```
 python phaser_gene_ae.py --haplotypic_counts phaser_output_all/ASD.haplotypic_counts.txt \
 --features human.gencode.v37.annotation.bed --o phaser_output_all/ASD.gene_ae.txt
 ```
 
-For downstream analysis we discarded loci with a total read depth lower than 100 and the MAF was calculated as above stated.
+For downstream analysis we discarded loci with a total read depth lower than 100 and the MAF was calculated as stated before
