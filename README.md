@@ -39,11 +39,8 @@ from the IMPLICON approach, available here: https://github.com/FelixKrueger/IMPL
 
 #### Overview of the pipeline
 
-Assuming the input reads are
-**R1:** `test_R1.fastq.gz` **R2:** `test_R2.fastq.gz`
-
-
 **STEP I: UMI-Handling**
+
 Read 2 begins with 8 bp random nucleotides, serving as unique molecular identifiers (UMIs) for amplification.
 To enable UMI-aware deduplication, Trim Galore is used with the --implicon option to transfer the UMI from Read 2 to both reads' 
 readID (check IMPLICON pipeline for me details)
@@ -65,6 +62,7 @@ test_8bp_UMI_R2.fastq.gz
 ```
 
 **STEP II: Adapter-/quality trimming**
+
 Next, a standard Trim Galore run identifies and removes read-through adapter contamination as well as poor quality base calls:
 
 ```
@@ -78,6 +76,7 @@ test_8bp_UMI_R2_val_2.fq.gz
 ```
 
 **STEP III: Genome Allignment**
+
 Genome alignment was conducted using STAR instead of Bismark, which is designed for methylation extraction (IMPLICON pipeline)
 
 ```
@@ -96,6 +95,7 @@ test_Aligned.sortedByCoord.out.bam
 ```
 
 **STEP IV: Deduplication using UMI-tools**
+
 In this step, paired-end read alignments are deduplicated based on chromosome, start position, end position, alignment orientation,
 and UMI from the read header (see Step I). For this, we used UMI-tools: https://umi-tools.readthedocs.io 
 
@@ -115,6 +115,7 @@ deduplicated_test_Aligned.sortedByCoord.out.bam
 ```
 
 **STEP V: Allele Specific Counts**
+
 Here, we used [phASER](https://github.com/secastel/phaser/tree/master) as described above (ASE analysis).
 In this example, we used our samples from the ASD cell line, before and after cardiac differentiation: 
 
