@@ -132,4 +132,4 @@ python phaser_gene_ae.py --haplotypic_counts phaser_output_all/ASD.haplotypic_co
 --features human.gencode.v37.annotation.bed --o phaser_output_all/ASD.gene_ae.txt
 ```
 
-For downstream analysis we discarded loci with a total read depth lower than 100 and the MAF was calculated as stated before
+For downstream analysis we discarded loci with a total read depth lower than 10 and the Minor Allele Frequency (MAF) was calculated as the ratio of minor allele read counts (the least common allele) to the total read counts from both alleles. Genes were classified as monoallelic (MAF < 0.10), biallelic (MAF > 0.40), or intermediate (0.10 ≤ MAF ≤ 0.40).
