@@ -1,5 +1,5 @@
 # ErosionX
-Repository dedicated to code and data associated with the manuscript "Erosion of X-Chromosome Inactivation in female hiPSCs is heterogeneous and persists during differentiation"
+Repository dedicated to code and data associated with the research paper "Gene reactivation upon erosion of X-chromosome inactivation in female hiPSCs is predictable yet variable and persists through differentiation" published in Stem Cell Reports
 
 ### Allele-Specific Expression (ASE) Analysis
 Following the generation of a VCF file from WES data and the alignment of RNA-seq data to the reference human genome, we employed phASER for RNAseq-based phasing, to obtain gene-level haplotype expression data. We installed and ran phASER according to the usage tips here: https://github.com/secastel/phaser/tree/master/phaser
